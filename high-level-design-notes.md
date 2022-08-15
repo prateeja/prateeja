@@ -22,4 +22,12 @@
     3. Helping to eliminate a single point of failure
     
     Load balancers can be implemented with hardware (expensive) or with software such as HAProxy. 
-16. **[]()** - 
+16. **[Reverse proxy (web server)](https://github.com/donnemartin/system-design-primer#reverse-proxy-web-server)** - A reverse proxy is a web server that centralizes internal services and provides unified interfaces to the public. Requests from clients are forwarded to a server that can fulfill it before the reverse proxy returns the server's response to the client. With additional benefits like Increased security, Increased scalability and flexibility, SSL termination, Compression, Caching, Static content etc. 
+17. **[]()** - 
+18. **[]()** - 
+19. **[]()** - 
+20. **[]()** - 
+21. **[]()** - 
+22. **[]()** - 
+23. **[]()** - 
+24. **[]()** - 
