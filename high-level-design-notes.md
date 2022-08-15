@@ -16,5 +16,10 @@
     1. Users receive content from data centers close to them
     2. Your servers do not have to serve requests that the CDN fulfills
     3. 2 types of CDN exists [Push CDNs](https://github.com/donnemartin/system-design-primer#push-cdns) & [Pull CDNs](https://github.com/donnemartin/system-design-primer#pull-cdns)
-15. **[]()** - 
+15. **[Load balancer](https://github.com/donnemartin/system-design-primer#load-balancer)** - Load balancers distribute incoming client requests to computing resources such as application servers and databases. In each case, the load balancer returns the response from the computing resource to the appropriate client. Load balancers are effective at:
+    1. Preventing requests from going to unhealthy servers
+    2. Preventing overloading resources
+    3. Helping to eliminate a single point of failure
+    
+    Load balancers can be implemented with hardware (expensive) or with software such as HAProxy. 
 16. **[]()** - 
