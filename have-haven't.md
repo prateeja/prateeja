@@ -13,3 +13,6 @@
 | 9 | Car | Money |
 | 10 | My Life |  |
 | 11 | Stress |  |
+| 12 | Tension |  |
+| 13 | Weight Gain |  |
+| 14 | Loan |  |
