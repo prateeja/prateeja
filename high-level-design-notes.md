@@ -14,6 +14,7 @@
 13. **[DNS - Domain name system](https://github.com/donnemartin/system-design-primer#domain-name-system)** - A Domain Name System (DNS) translates a domain name such as www.example.com to an IP address. DNS is hierarchical, with a few authoritative servers at the top level. Your router or ISP provides information about which DNS server(s) to contact when doing a lookup. Lower level DNS servers cache mappings, which could become stale due to DNS propagation delays. DNS results can also be cached by your browser or OS for a certain period of time, determined by the time to live (TTL). 
 14. **[CDN - Content delivery network](https://github.com/donnemartin/system-design-primer#content-delivery-network)** - A content delivery network (CDN) is a globally distributed network of proxy servers, serving content from locations closer to the user. Generally, static files such as HTML/CSS/JS, photos, and videos are served from CDN, although some CDNs such as Amazon's CloudFront support dynamic content. The site's DNS resolution will tell clients which server to contact. Serving content from CDNs can significantly improve performance in two ways:
     1. Users receive content from data centers close to them
-    2. Your servers do not have to serve requests that the CDN fulfills 
+    2. Your servers do not have to serve requests that the CDN fulfills
+    3. 2 types of CDN exists [Push CDNs](https://github.com/donnemartin/system-design-primer#push-cdns) & [Pull CDNs](https://github.com/donnemartin/system-design-primer#pull-cdns)
 15. **[]()** - 
 16. **[]()** - 
