@@ -2,9 +2,9 @@
 
 | # | Have  | Have Not |
 | ------------- | ------------- | ------------- |
-| 1 | Mummy | Peace |
-| 2 | Papa | Satisfaction |
-| 3 | Family | Job in Google |
+| 1 | Mummy | Job in Google |
+| 2 | Papa | Peace |
+| 3 | Family | Satisfaction |
 | 4 | Wife & Kid | Happy Family |
 | 5 | Education | Reduced stress |
 | 6 | IT Knowledge | Be a good son, husband and father |
