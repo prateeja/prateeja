@@ -30,7 +30,7 @@
     4. **Durability** - Once a transaction has been committed, it will remain so
     
     There are many techniques to scale a relational database: master-slave replication, master-master replication, federation, sharding, denormalization, and SQL tuning. 
-18. **[]()** - 
+18. **[Sharding](https://github.com/donnemartin/system-design-primer#sharding)** - Sharding distributes data across different databases such that each database can only manage a subset of the data. Taking a users database as an example, as the number of users increases, more shards are added to the cluster.
 19. **[]()** - 
 20. **[]()** - 
 21. **[]()** - 
