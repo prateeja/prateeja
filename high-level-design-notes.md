@@ -33,7 +33,17 @@
 18. **[Sharding](https://github.com/donnemartin/system-design-primer#sharding)** - Sharding distributes data across different databases such that each database can only manage a subset of the data. Taking a users database as an example, as the number of users increases, more shards are added to the cluster.
 19. **[Cache](https://github.com/donnemartin/system-design-primer#cache)** - Caching improves page load times and can reduce the load on your servers and databases. In this model, the dispatcher will first lookup if the request has been made before and try to find the previous result to return, in order to save the actual execution. Databases often benefit from a uniform distribution of reads and writes across its partitions. Popular items can skew the distribution, causing bottlenecks. Putting a cache in front of a database can help absorb uneven loads and spikes in traffic. 
 20. **[Asynchronism](https://github.com/donnemartin/system-design-primer#asynchronism)** - Asynchronous workflows help reduce request times for expensive operations that would otherwise be performed in-line. They can also help by doing time-consuming work in advance, such as periodic aggregation of data. 
-21. **[]()** - 
-22. **[]()** - 
-23. **[]()** - 
-24. **[]()** - 
+21. **[Hypertext transfer protocol (HTTP)](https://github.com/donnemartin/system-design-primer#hypertext-transfer-protocol-http)** - HTTP is a method for encoding and transporting data between a client and a server. It is a request/response protocol: clients issue requests and servers issue responses with relevant content and completion status info about the request. HTTP is self-contained, allowing requests and responses to flow through many intermediate routers and servers that perform load balancing, caching, encryption, and compression. 
+22. **[Transmission control protocol (TCP)](https://github.com/donnemartin/system-design-primer#transmission-control-protocol-tcp)** - TCP is a connection-oriented protocol over an IP network. Connection is established and terminated using a handshake. All packets sent are guaranteed to reach the destination in the original order and without corruption through:
+    1. Sequence numbers and checksum fields for each packet
+    2. Acknowledgement packets and automatic retransmission
+ 
+    If the sender does not receive a correct response, it will resend the packets. If there are multiple timeouts, the connection is dropped. TCP also implements flow control and congestion control. These guarantees cause delays and generally result in less efficient transmission than UDP.
+23. **[User datagram protocol (UDP)](https://github.com/donnemartin/system-design-primer#user-datagram-protocol-udp)** - UDP is connectionless. Datagrams (analogous to packets) are guaranteed only at the datagram level. Datagrams might reach their destination out of order or not at all. UDP does not support congestion control. Without the guarantees that TCP support, UDP is generally more efficient. 
+24. **[Remote procedure call (RPC)](https://github.com/donnemartin/system-design-primer#remote-procedure-call-rpc)** - In an RPC, a client causes a procedure to execute on a different address space, usually a remote server. The procedure is coded as if it were a local procedure call, abstracting away the details of how to communicate with the server from the client program. Remote calls are usually slower and less reliable than local calls so it is helpful to distinguish RPC calls from local calls. Popular RPC frameworks include Protobuf, Thrift, and Avro. 
+25. **[Representational state transfer (REST)](https://github.com/donnemartin/system-design-primer#representational-state-transfer-rest)** - REST is an architectural style enforcing a client/server model where the client acts on a set of resources managed by the server. The server provides a representation of resources and actions that can either manipulate or get a new representation of resources. All communication must be stateless and cacheable. 
+26. **[]()** - 
+27. **[]()** - 
+28. **[]()** - 
+29. **[]()** - 
+30. **[]()** - 
