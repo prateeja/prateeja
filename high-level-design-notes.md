@@ -31,8 +31,8 @@
     
     There are many techniques to scale a relational database: master-slave replication, master-master replication, federation, sharding, denormalization, and SQL tuning. 
 18. **[Sharding](https://github.com/donnemartin/system-design-primer#sharding)** - Sharding distributes data across different databases such that each database can only manage a subset of the data. Taking a users database as an example, as the number of users increases, more shards are added to the cluster.
-19. **[]()** - 
-20. **[]()** - 
+19. **[Cache](https://github.com/donnemartin/system-design-primer#cache)** - Caching improves page load times and can reduce the load on your servers and databases. In this model, the dispatcher will first lookup if the request has been made before and try to find the previous result to return, in order to save the actual execution. Databases often benefit from a uniform distribution of reads and writes across its partitions. Popular items can skew the distribution, causing bottlenecks. Putting a cache in front of a database can help absorb uneven loads and spikes in traffic. 
+20. **[Asynchronism](https://github.com/donnemartin/system-design-primer#asynchronism)** - Asynchronous workflows help reduce request times for expensive operations that would otherwise be performed in-line. They can also help by doing time-consuming work in advance, such as periodic aggregation of data. 
 21. **[]()** - 
 22. **[]()** - 
 23. **[]()** - 
