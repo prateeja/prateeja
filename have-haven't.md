@@ -2,7 +2,7 @@
 
 | # | Have  | Have Not |
 | ------------- | ------------- | ------------- |
-| 1 | Mummy | Job in Google |
+| 1 | Mummy | Job in Google :hand: |
 | 2 | Papa | Peace |
 | 3 | Family | Satisfaction |
 | 4 | Wife & Kid | Happy Family |
