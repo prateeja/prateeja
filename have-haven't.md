@@ -16,3 +16,6 @@
 | 12 | Tension |  |
 | 13 | Weight Gain |  |
 | 14 | Loan |  |
+
+# References
+1. https://gist.github.com/rxaviers/7360908 (Icons)
