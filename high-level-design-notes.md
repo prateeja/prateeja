@@ -42,7 +42,7 @@
 23. **[User datagram protocol (UDP)](https://github.com/donnemartin/system-design-primer#user-datagram-protocol-udp)** - UDP is connectionless. Datagrams (analogous to packets) are guaranteed only at the datagram level. Datagrams might reach their destination out of order or not at all. UDP does not support congestion control. Without the guarantees that TCP support, UDP is generally more efficient. 
 24. **[Remote procedure call (RPC)](https://github.com/donnemartin/system-design-primer#remote-procedure-call-rpc)** - In an RPC, a client causes a procedure to execute on a different address space, usually a remote server. The procedure is coded as if it were a local procedure call, abstracting away the details of how to communicate with the server from the client program. Remote calls are usually slower and less reliable than local calls so it is helpful to distinguish RPC calls from local calls. Popular RPC frameworks include Protobuf, Thrift, and Avro. 
 25. **[Representational state transfer (REST)](https://github.com/donnemartin/system-design-primer#representational-state-transfer-rest)** - REST is an architectural style enforcing a client/server model where the client acts on a set of resources managed by the server. The server provides a representation of resources and actions that can either manipulate or get a new representation of resources. All communication must be stateless and cacheable. 
-26. **[]()** - 
+26. **[Consistent Hashing](https://www.freecodecamp.org/news/systems-design-for-interviews/#section-7-consistent-hashing)** 
 27. **[]()** - 
 28. **[]()** - 
 29. **[]()** - 
