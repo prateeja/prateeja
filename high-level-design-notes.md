@@ -44,6 +44,6 @@
 25. **[Representational state transfer (REST)](https://github.com/donnemartin/system-design-primer#representational-state-transfer-rest)** - REST is an architectural style enforcing a client/server model where the client acts on a set of resources managed by the server. The server provides a representation of resources and actions that can either manipulate or get a new representation of resources. All communication must be stateless and cacheable. 
 26. **[Consistent Hashing](https://www.freecodecamp.org/news/systems-design-for-interviews/#section-7-consistent-hashing)** 
 27. **[Uptime](https://people.eecs.berkeley.edu/~brewer/papers/GiantScale-IEEE.pdf)** - Uptime is typically measured in nines, and tra-ditional infrastructure systems such as the phone system aim for four or five nines (“four nines” implies 0.9999 uptime, or less than 60 seconds of downtime per week). Two related metrics are mean-time-between-failure (MTBF) and mean-time-to-repair (MTTR). We can think of uptime as: **uptime = (MTBF – MTTR)/MTBF**
-28. **[]()** - 
+28. **[Overload due to failures](https://people.eecs.berkeley.edu/~brewer/papers/GiantScale-IEEE.pdf)** - ![Overload due to failures](images/overload-due-to-failures.png) 
 29. **[]()** - 
 30. **[]()** - 
