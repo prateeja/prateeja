@@ -46,7 +46,7 @@
 27. **[Uptime](https://people.eecs.berkeley.edu/~brewer/papers/GiantScale-IEEE.pdf)** - Uptime is typically measured in nines, and tra-ditional infrastructure systems such as the phone system aim for four or five nines (“four nines” implies 0.9999 uptime, or less than 60 seconds of downtime per week). Two related metrics are mean-time-between-failure (MTBF) and mean-time-to-repair (MTTR). We can think of uptime as: **uptime = (MTBF – MTTR)/MTBF**
 28. **[Overload due to failures](https://people.eecs.berkeley.edu/~brewer/papers/GiantScale-IEEE.pdf)**
 ![Overload due to failures](images/overload-due-to-failures.png) 
-30. **[Powers of two table](https://github.com/donnemartin/system-design-primer#powers-of-two-table)**
+29. **[Powers of two table](https://github.com/donnemartin/system-design-primer#powers-of-two-table)**
 ```
 Power           Exact Value         Approx Value        Bytes
 ---------------------------------------------------------------
@@ -59,7 +59,7 @@ Power           Exact Value         Approx Value        Bytes
 32                  4,294,967,296                        4 GB
 40              1,099,511,627,776   1 trillion           1 TB
 ```
-31. **[Latency numbers every programmer should know](https://github.com/donnemartin/system-design-primer#latency-numbers-every-programmer-should-know)**
+30. **[Latency numbers every programmer should know](https://github.com/donnemartin/system-design-primer#latency-numbers-every-programmer-should-know)**
 ```
 Latency Comparison Numbers
 --------------------------
@@ -85,8 +85,8 @@ Notes
 1 us = 10^-6 seconds = 1,000 ns
 1 ms = 10^-3 seconds = 1,000 us = 1,000,000 ns
 ```
-33. **[Latency numbers visualized](https://github.com/donnemartin/system-design-primer#latency-numbers-visualized)**
+31. **[Latency numbers visualized](https://github.com/donnemartin/system-design-primer#latency-numbers-visualized)**
 ![Laency numbers visualized](images/latency-numbers-visualized.png) 
-35. **[]()** -
-36. **[]()** -
-37. **[]()** - 
+32. **[]()** -
+33. **[]()** -
+34. **[]()** - 
