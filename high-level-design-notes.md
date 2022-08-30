@@ -86,7 +86,7 @@ Notes
 1 ms = 10^-3 seconds = 1,000 us = 1,000,000 ns
 ```
 33. **[Latency numbers visualized](https://github.com/donnemartin/system-design-primer#latency-numbers-visualized)**
-![Laency numbers visualized](images/latency-number-visualized.png) 
+![Laency numbers visualized](images/latency-numbers-visualized.png) 
 35. **[]()** -
 36. **[]()** -
 37. **[]()** - 
