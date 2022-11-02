@@ -9,5 +9,5 @@ jobs:
         uses: koj-co/readme-repos-list@master
         with:
           token: ${{ secrets.GH_PAT }}
-          owner: "prateeja"
+          query: "user:prateeja"
           max: 10
