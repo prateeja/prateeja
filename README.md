@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br>
 
 <!-- start: YOUR_STARTER -->...the list will be added here...<!-- end: YOUR_STARTER -->
