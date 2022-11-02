@@ -9,5 +9,5 @@ jobs:
         uses: koj-co/readme-repos-list@master
         with:
           token: ${{ secrets.GH_PAT }}
-          query: "Octocat in:readme"
+          owner: "prateeja"
           max: 10
