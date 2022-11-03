@@ -48,7 +48,7 @@ query {
                     stargazerCount
                     isPrivate
                   }
-                  contributions(first: 10) {
+                  contributions(first: 500) {
                     nodes {
                       occurredAt
                       pullRequest {
@@ -58,7 +58,7 @@ query {
                     }
                   }
                 }
-                pullRequestContributions(first: 5){
+                pullRequestContributions(first: 500){
                   nodes{
                    pullRequest {
                      title
