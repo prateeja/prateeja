@@ -3,124 +3,44 @@
 ## Repositories
 
 
-Index: 1
+1 ![system-design-primer]({ repo.url }}) [2]
+Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+<hr />
 
-Name: system-design-primer
+2 ![spring-boot]({ repo.url }}) [1]
+All working examples using spring boot in this repo including actuator, jpa, batch, web, security etc.
+<hr />
 
-URL: https://github.com/prateeja/system-design-primer
-
-Star: 2
-
-Description: Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+3 ![awesome-dropwizard]({ repo.url }}) [1]
 
 <hr />
 
-Index: 2
-
-Name: spring-boot
-
-URL: https://github.com/prateeja/spring-boot
-
-Star: 1
-
-Description: All working examples using spring boot in this repo including actuator, jpa, batch, web, security etc.
-
+4 ![awesome-devops]({ repo.url }}) [1]
+This is my awesome list with all open source and free applications that you can use in your management
 <hr />
 
-Index: 3
-
-Name: awesome-dropwizard
-
-URL: https://github.com/prateeja/awesome-dropwizard
-
-Star: 1
-
-Description: 
-
+5 ![awesome-kafka]({ repo.url }}) [1]
+A list about Apache Kafka
 <hr />
 
-Index: 4
-
-Name: awesome-devops
-
-URL: https://github.com/prateeja/awesome-devops
-
-Star: 1
-
-Description: This is my awesome list with all open source and free applications that you can use in your management
-
+6 ![awesome-websockets]({ repo.url }}) [1]
+A curated list of Websocket libraries and resources.
 <hr />
 
-Index: 5
-
-Name: awesome-kafka
-
-URL: https://github.com/prateeja/awesome-kafka
-
-Star: 1
-
-Description: A list about Apache Kafka
-
+7 ![awesome-http-benchmark]({ repo.url }}) [1]
+HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
 <hr />
 
-Index: 6
-
-Name: awesome-websockets
-
-URL: https://github.com/prateeja/awesome-websockets
-
-Star: 1
-
-Description: A curated list of Websocket libraries and resources.
-
+8 ![awesome-database-learning]({ repo.url }}) [1]
+A list of learning materials to understand databases internals
 <hr />
 
-Index: 7
-
-Name: awesome-http-benchmark
-
-URL: https://github.com/prateeja/awesome-http-benchmark
-
-Star: 1
-
-Description: HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
-
+9 ![awesome-spark]({ repo.url }}) [1]
+A curated list of awesome Apache Spark packages and resources.
 <hr />
 
-Index: 8
-
-Name: awesome-database-learning
-
-URL: https://github.com/prateeja/awesome-database-learning
-
-Star: 1
-
-Description: A list of learning materials to understand databases internals
-
-<hr />
-
-Index: 9
-
-Name: awesome-spark
-
-URL: https://github.com/prateeja/awesome-spark
-
-Star: 1
-
-Description: A curated list of awesome Apache Spark packages and resources.
-
-<hr />
-
-Index: 10
-
-Name: awesome-command-line-apps
-
-URL: https://github.com/prateeja/awesome-command-line-apps
-
-Star: 1
-
-Description: :shell: Use your terminal shell to do awesome things.
-
+10 ![awesome-command-line-apps]({ repo.url }}) [1]
+:shell: Use your terminal shell to do awesome things.
 <hr />
 
 
@@ -132,7 +52,7 @@ Name: first-contributions
 
 URL: https://github.com/firstcontributions/first-contributions
 
-Star: 29720
+Star: 29721
 
 Description: 🚀✨ Help beginners to contribute to open source projects
 
@@ -306,7 +226,7 @@ Contributions:
 query {
             user(login: "ntsd") {
               name
-              repositories(first: 10, orderBy: {field:STARGAZERS, direction: DESC}) {
+              repositories(first: 500, orderBy: {field:STARGAZERS, direction: DESC}) {
                 nodes {
                   name
                   url
@@ -314,7 +234,7 @@ query {
                 }
               }
               contributionsCollection {
-                pullRequestContributionsByRepository(maxRepositories: 100, excludeFirst:true) {
+                pullRequestContributionsByRepository(maxRepositories: 500, excludeFirst:true) {
                   repository {
                     name
                     url
