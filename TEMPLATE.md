@@ -3,16 +3,8 @@
 ## Repositories
 
 {% for repo in repositories %}
-Index: {{ forloop.index }}
-
-Name: {{ repo.name }}
-
-URL: {{ repo.url }}
-
-Star: {{ repo.stargazerCount }}
-
-Description: {{ repo.description }}
-
+{{ forloop.index }} ![{{ repo.name }}]({ repo.url }}) [{{ repo.stargazerCount }}]
+{{ repo.description }}
 <hr />
 {% endfor %}
 
@@ -40,7 +32,7 @@ Contributions:
 query {
             user(login: "ntsd") {
               name
-              repositories(first: 10, orderBy: {field:STARGAZERS, direction: DESC}) {
+              repositories(first: 500, orderBy: {field:STARGAZERS, direction: DESC}) {
                 nodes {
                   name
                   url
@@ -48,7 +40,7 @@ query {
                 }
               }
               contributionsCollection {
-                pullRequestContributionsByRepository(maxRepositories: 100, excludeFirst:true) {
+                pullRequestContributionsByRepository(maxRepositories: 500, excludeFirst:true) {
                   repository {
                     name
                     url
