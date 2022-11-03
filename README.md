@@ -4,42 +4,52 @@
 
 
 1 ![system-design-primer]({ repo.url }}) [2]
+
 Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 <hr />
 
 2 ![spring-boot]({ repo.url }}) [1]
+
 All working examples using spring boot in this repo including actuator, jpa, batch, web, security etc.
 <hr />
 
 3 ![awesome-dropwizard]({ repo.url }}) [1]
 
+
 <hr />
 
 4 ![awesome-devops]({ repo.url }}) [1]
+
 This is my awesome list with all open source and free applications that you can use in your management
 <hr />
 
 5 ![awesome-kafka]({ repo.url }}) [1]
+
 A list about Apache Kafka
 <hr />
 
 6 ![awesome-websockets]({ repo.url }}) [1]
+
 A curated list of Websocket libraries and resources.
 <hr />
 
 7 ![awesome-http-benchmark]({ repo.url }}) [1]
+
 HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
 <hr />
 
 8 ![awesome-database-learning]({ repo.url }}) [1]
+
 A list of learning materials to understand databases internals
 <hr />
 
 9 ![awesome-spark]({ repo.url }}) [1]
+
 A curated list of awesome Apache Spark packages and resources.
 <hr />
 
 10 ![awesome-command-line-apps]({ repo.url }}) [1]
+
 :shell: Use your terminal shell to do awesome things.
 <hr />
 
