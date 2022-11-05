@@ -3,7 +3,7 @@ on:
   schedule:
     - cron: "0 0 * * 1"
 jobs:
-  list:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Run readme-repos-list
