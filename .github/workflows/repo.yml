@@ -1,16 +1,14 @@
 name: README Repos List
 on:
   schedule:
-    # run every day at midnight
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * 1"
 jobs:
-  build:
+  list:
     runs-on: ubuntu-latest
     steps:
       - name: Run readme-repos-list
-        id: readme-repos-list
-        uses: DenverCoderOne/readme-repos-list@v2.0.0
+        uses: koj-co/readme-repos-list@master
         with:
           token: ${{ secrets.GH_PAT }}
-          query: "* in:readme"
-          max: 500
+          query: "Octocat in:readme"
+          max: 10
