@@ -4,12 +4,13 @@ on:
     # run every day at midnight
     - cron: "0 0 * * *"
 jobs:
-  github-profile:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Run readme-repos-list
+        id: readme-repos-list
         uses: DenverCoderOne/readme-repos-list@v2.0.0
         with:
           token: ${{ secrets.GH_PAT }}
-          query: "Octocat in:readme"
+          query: "* in:readme"
           max: 500
