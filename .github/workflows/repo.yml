@@ -4,7 +4,7 @@ on:
     # run every day at midnight
     - cron: "0 0 * * *"
 jobs:
-  list:
+  github-profile:
     runs-on: ubuntu-latest
     steps:
       - name: Run readme-repos-list
