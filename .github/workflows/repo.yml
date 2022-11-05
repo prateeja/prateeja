@@ -1,15 +1,26 @@
-name: README Repos List
+name: Generate Github Profile
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * 1"
+
 jobs:
-  list:
+  github-profile:
     runs-on: ubuntu-latest
     steps:
-      - name: Run readme-repos-list
-        uses: koj-co/readme-repos-list@master
+      - uses: actions/checkout@v2
+      - name: Github Profile Repositories
+        uses: ntsd/github-profile-repositories@master
         with:
-          token: ${{ secrets.GH_PAT }}
-          query: "user:prateeja"
-          max: 500
+          github-token: "${{ secrets.GH_PAT }}"
+          template-file: "./TEMPLATE.md"
+          render-file: "./README.md"
+          limit: 20
+          repositories-order-by: "UPDATED_AT"
+          contributed-order-by: "OCCURRED_AT"
+      - name: Commit files
+        run: |
+          git config --local user.email "ntsd@users.noreply.github.com"
+          git config --local user.name "ntsd"
+          git commit -am "docs: auto update README.md"
+          git push
