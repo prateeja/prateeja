@@ -1,0 +1,19 @@
+name: Update awesome list
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Awesome generator
+        uses: simonecorsi/mawesome@latest
+        with:
+          api-token: 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
+          github-token: ${{ secrets.GH_PAT }}
+          github-email: 	actions@users.noreply.github.com
+          github-name: ${{ github.repository_owner }}
