@@ -3,7 +3,7 @@ on:
   schedule:
     - cron: "0 0 * * 1"
 jobs:
-  build:
+  list:
     runs-on: ubuntu-latest
     steps:
       - name: Run readme-repos-list
@@ -11,4 +11,4 @@ jobs:
         with:
           token: ${{ secrets.GH_PAT }}
           query: "user:prateeja"
-          max: 10
+          max: 500
