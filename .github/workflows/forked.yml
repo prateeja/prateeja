@@ -1,0 +1,16 @@
+name: README Forked Repos List
+on:
+  workflow_dispatch:
+  schedule:
+    # run every day at midnight
+    - cron: "0 0 * * *"
+jobs:
+  list:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run readme-repos-list
+        uses: DenverCoderOne/readme-repos-list@v2.0.0
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          query: "Octocat in:readme"
+          max: 5
