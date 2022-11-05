@@ -1,5 +1,12 @@
 # Example
 
+This is my fancy README
+
+<!-- start: YOUR_STARTER -->...the list will be added here...<!-- end: YOUR_STARTER -->
+
+Your README continues after the list
+
+
 ## Repositories
 
 
@@ -52,11 +59,3 @@ A curated list of awesome Apache Spark packages and resources.
 
 :shell: Use your terminal shell to do awesome things.
 <hr />
-
-
-
-This is my fancy README
-
-<!-- start: YOUR_STARTER -->...the list will be added here...<!-- end: YOUR_STARTER -->
-
-Your README continues after the list
