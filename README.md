@@ -53,6 +53,56 @@ A curated list of awesome Apache Spark packages and resources.
 :shell: Use your terminal shell to do awesome things.
 <hr />
 
+11 ![awesome-streaming](https://github.com/prateeja/awesome-streaming) [1]
+
+a curated list of awesome streaming frameworks, applications, etc
+<hr />
+
+12 ![awesome-mysql](https://github.com/prateeja/awesome-mysql) [1]
+
+A curated list of awesome MySQL software, libraries, tools and resources
+<hr />
+
+13 ![awesome-data-engineering](https://github.com/prateeja/awesome-data-engineering) [1]
+
+A curated list of data engineering tools for software developers
+<hr />
+
+14 ![awesome-distributed-systems](https://github.com/prateeja/awesome-distributed-systems) [1]
+
+A curated list to learn about distributed systems
+<hr />
+
+15 ![awesome-aws](https://github.com/prateeja/awesome-aws) [1]
+
+A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
+<hr />
+
+16 ![awesome-scala](https://github.com/prateeja/awesome-scala) [1]
+
+A community driven list of useful Scala libraries, frameworks and software.
+<hr />
+
+17 ![awesome-bigdata](https://github.com/prateeja/awesome-bigdata) [1]
+
+A curated list of awesome big data frameworks, ressources and other awesomeness.
+<hr />
+
+18 ![awesome-scalability](https://github.com/prateeja/awesome-scalability) [1]
+
+The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+<hr />
+
+19 ![awesome-python](https://github.com/prateeja/awesome-python) [1]
+
+A curated list of awesome Python frameworks, libraries, software and resources
+<hr />
+
+20 ![first-steps-to-software-architect](https://github.com/prateeja/first-steps-to-software-architect) [1]
+
+How to start your journey towards software architecture?
+<hr />
+
 
 
 ## Contributed Repositories
@@ -228,6 +278,172 @@ Contributions:
 
  - Merging from source repo
  - Merging from HEAD
+
+
+<hr />
+Index: 11
+
+Name: awesome-scala
+
+URL: https://github.com/prateeja/awesome-scala
+
+Star: 1
+
+Description: A community driven list of useful Scala libraries, frameworks and software.
+
+Contributions:
+
+ - Merging from source repo
+
+
+<hr />
+Index: 12
+
+Name: awesome-command-line-apps
+
+URL: https://github.com/prateeja/awesome-command-line-apps
+
+Star: 1
+
+Description: :shell: Use your terminal shell to do awesome things.
+
+Contributions:
+
+ - Merging from source repo
+
+
+<hr />
+Index: 13
+
+Name: awesome-distributed-systems
+
+URL: https://github.com/prateeja/awesome-distributed-systems
+
+Star: 1
+
+Description: A curated list to learn about distributed systems
+
+Contributions:
+
+ - Merging from source repo
+
+
+<hr />
+Index: 14
+
+Name: awesome-streaming
+
+URL: https://github.com/prateeja/awesome-streaming
+
+Star: 1
+
+Description: a curated list of awesome streaming frameworks, applications, etc
+
+Contributions:
+
+ - Merging from source repo
+
+
+<hr />
+Index: 15
+
+Name: Technical-Interview-Megarepo
+
+URL: https://github.com/prateeja/Technical-Interview-Megarepo
+
+Star: 1
+
+Description: Study materials for SE/CS technical interviews
+
+Contributions:
+
+ - Fetching updates
+
+
+<hr />
+Index: 16
+
+Name: developer-roadmap
+
+URL: https://github.com/prateeja/developer-roadmap
+
+Star: 1
+
+Description: Roadmap to becoming a web developer in 2020
+
+Contributions:
+
+ - Merging from upstream
+
+
+<hr />
+Index: 17
+
+Name: tutorials
+
+URL: https://github.com/prateeja/tutorials
+
+Star: 0
+
+Description: Just Announced - "Learn Spring Security OAuth": 
+
+Contributions:
+
+ - Merging from source repo
+ - Pulling from source
+ - Merging from HEAD
+
+
+<hr />
+Index: 18
+
+Name: Java
+
+URL: https://github.com/prateeja/Java
+
+Star: 0
+
+Description: All Algorithms implemented in Java
+
+Contributions:
+
+ - Merging from source repo
+ - Merging from source
+ - Fetching updates
+
+
+<hr />
+Index: 19
+
+Name: awesome-kubernetes
+
+URL: https://github.com/prateeja/awesome-kubernetes
+
+Star: 0
+
+Description: A curated list for awesome kubernetes sources :ship::tada:
+
+Contributions:
+
+ - Merging from source repo
+ - Fetching updates
+
+
+<hr />
+Index: 20
+
+Name: awesome-uses
+
+URL: https://github.com/prateeja/awesome-uses
+
+Star: 0
+
+Description: A list of /uses pages detailing developer setups, gear, software and configs.
+
+Contributions:
+
+ - Merging from source repo
+ - Fetching updates
 
 
 <hr />
