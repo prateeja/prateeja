@@ -63,7 +63,7 @@ Name: first-contributions
 
 URL: https://github.com/firstcontributions/first-contributions
 
-Star: 29721
+Star: 29769
 
 Description: 🚀✨ Help beginners to contribute to open source projects
 
