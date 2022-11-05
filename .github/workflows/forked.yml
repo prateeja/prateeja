@@ -11,6 +11,6 @@ jobs:
       - name: Run readme-repos-list
         uses: DenverCoderOne/readme-repos-list@v2.0.0
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
           query: "user:prateeja"
           max: 5
