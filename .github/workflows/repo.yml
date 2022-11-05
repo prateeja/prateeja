@@ -2,7 +2,7 @@ name: Generate Github Profile
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * 1"
+    - cron: "0 1 * * *"
 
 jobs:
   github-profile:
@@ -16,8 +16,6 @@ jobs:
           template-file: "./TEMPLATE.md"
           render-file: "./README.md"
           limit: 20
-          repositories-order-by: "UPDATED_AT"
-          contributed-order-by: "OCCURRED_AT"
       - name: Commit files
         run: |
           git config --local user.email "ntsd@users.noreply.github.com"
