@@ -22,7 +22,7 @@ jobs:
         with:
           github-user: ${{ github.actor }}
           github-token: ${{ secrets.GH_PAT }}
-          list-file: "STARRED.md"
+          list-file: "README.md"
 
       # Commit the changes
       - name: Commit files
