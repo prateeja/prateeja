@@ -1,255 +1,649 @@
-# Example
-
-## Repositories
-
-
-1 ![system-design-primer](https://github.com/prateeja/system-design-primer) [2]
-
-Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-<hr />
-
-2 ![spring-boot](https://github.com/prateeja/spring-boot) [1]
-
-All working examples using spring boot in this repo including actuator, jpa, batch, web, security etc.
-<hr />
-
-3 ![awesome-dropwizard](https://github.com/prateeja/awesome-dropwizard) [1]
-
-
-<hr />
-
-4 ![awesome-devops](https://github.com/prateeja/awesome-devops) [1]
-
-This is my awesome list with all open source and free applications that you can use in your management
-<hr />
-
-5 ![awesome-kafka](https://github.com/prateeja/awesome-kafka) [1]
-
-A list about Apache Kafka
-<hr />
-
-6 ![awesome-websockets](https://github.com/prateeja/awesome-websockets) [1]
-
-A curated list of Websocket libraries and resources.
-<hr />
-
-7 ![awesome-http-benchmark](https://github.com/prateeja/awesome-http-benchmark) [1]
-
-HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
-<hr />
-
-8 ![awesome-database-learning](https://github.com/prateeja/awesome-database-learning) [1]
-
-A list of learning materials to understand databases internals
-<hr />
-
-9 ![awesome-spark](https://github.com/prateeja/awesome-spark) [1]
-
-A curated list of awesome Apache Spark packages and resources.
-<hr />
-
-10 ![awesome-command-line-apps](https://github.com/prateeja/awesome-command-line-apps) [1]
-
-:shell: Use your terminal shell to do awesome things.
-<hr />
-
-11 ![awesome-streaming](https://github.com/prateeja/awesome-streaming) [1]
-
-a curated list of awesome streaming frameworks, applications, etc
-<hr />
-
-12 ![awesome-mysql](https://github.com/prateeja/awesome-mysql) [1]
-
-A curated list of awesome MySQL software, libraries, tools and resources
-<hr />
-
-13 ![awesome-data-engineering](https://github.com/prateeja/awesome-data-engineering) [1]
-
-A curated list of data engineering tools for software developers
-<hr />
-
-14 ![awesome-distributed-systems](https://github.com/prateeja/awesome-distributed-systems) [1]
-
-A curated list to learn about distributed systems
-<hr />
-
-15 ![awesome-aws](https://github.com/prateeja/awesome-aws) [1]
-
-A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
-<hr />
-
-16 ![awesome-scala](https://github.com/prateeja/awesome-scala) [1]
-
-A community driven list of useful Scala libraries, frameworks and software.
-<hr />
-
-17 ![awesome-bigdata](https://github.com/prateeja/awesome-bigdata) [1]
-
-A curated list of awesome big data frameworks, ressources and other awesomeness.
-<hr />
-
-18 ![awesome-scalability](https://github.com/prateeja/awesome-scalability) [1]
-
-The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-<hr />
-
-19 ![awesome-python](https://github.com/prateeja/awesome-python) [1]
-
-A curated list of awesome Python frameworks, libraries, software and resources
-<hr />
-
-20 ![first-steps-to-software-architect](https://github.com/prateeja/first-steps-to-software-architect) [1]
-
-How to start your journey towards software architecture?
-<hr />
-
-21 ![Scalable-Software-Architecture](https://github.com/prateeja/Scalable-Software-Architecture) [1]
-
-Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design.
-<hr />
-
-22 ![java-design-patterns](https://github.com/prateeja/java-design-patterns) [1]
-
-Design patterns implemented in Java
-<hr />
-
-23 ![awesome-jvm](https://github.com/prateeja/awesome-jvm) [1]
-
-A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python.
-<hr />
-
-24 ![awesome-microservices](https://github.com/prateeja/awesome-microservices) [1]
-
-A curated list of Microservice Architecture related principles and technologies.
-<hr />
-
-25 ![awesome-java](https://github.com/prateeja/awesome-java) [1]
-
-A curated list of awesome frameworks, libraries and software for the Java programming language.
-<hr />
-
-26 ![the-art-of-command-line](https://github.com/prateeja/the-art-of-command-line) [1]
-
-Master the command line, in one page
-<hr />
-
-27 ![public-apis](https://github.com/prateeja/public-apis) [1]
-
-A collective list of free APIs for use in software and web development.
-<hr />
-
-28 ![gitignore](https://github.com/prateeja/gitignore) [1]
-
-A collection of useful .gitignore templates
-<hr />
-
-29 ![free-programming-books](https://github.com/prateeja/free-programming-books) [1]
-
-:books: Freely available programming books
-<hr />
-
-30 ![coding-interview-university](https://github.com/prateeja/coding-interview-university) [1]
-
-A complete computer science study plan to become a software engineer.
-<hr />
-
-31 ![build-your-own-x](https://github.com/prateeja/build-your-own-x) [1]
-
-🤓 Build your own (insert technology here)
-<hr />
-
-32 ![awesome-mac](https://github.com/prateeja/awesome-mac) [1]
-
- Now we have become very big, Different from the original idea. Collect premium software in various categories.
-<hr />
-
-33 ![Technical-Interview-Megarepo](https://github.com/prateeja/Technical-Interview-Megarepo) [1]
-
-Study materials for SE/CS technical interviews
-<hr />
-
-34 ![prateeja.github.io](https://github.com/prateeja/prateeja.github.io) [0]
-
-✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
-<hr />
-
-35 ![list-repos-github](https://github.com/prateeja/list-repos-github) [0]
-
-
-<hr />
-
-36 ![homemade-machine-learning](https://github.com/prateeja/homemade-machine-learning) [0]
-
-🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
-<hr />
-
-37 ![awesome-workflow-engines](https://github.com/prateeja/awesome-workflow-engines) [0]
-
-A curated list of awesome open source workflow engines
-<hr />
-
-38 ![github-profile-repositories](https://github.com/prateeja/github-profile-repositories) [0]
-
-
-<hr />
-
-39 ![readme-repos-list](https://github.com/prateeja/readme-repos-list) [0]
-
-🖇️ GitHub Action to list repositories in a README
-<hr />
-
-40 ![awesome-mental-health](https://github.com/prateeja/awesome-mental-health) [0]
-
-A curated list of awesome articles, websites and resources about mental health in the software industry.
-<hr />
-
-41 ![awesome-cto](https://github.com/prateeja/awesome-cto) [0]
-
-A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
-<hr />
-
-42 ![uml-reverse-mapper](https://github.com/prateeja/uml-reverse-mapper) [0]
-
-Automatically generate class diagram from code. Supports Graphviz, PlantUML and Mermaid output formats.
-<hr />
-
-43 ![distsys-class](https://github.com/prateeja/distsys-class) [0]
-
-Class materials for a distributed systems lecture series
-<hr />
-
-44 ![how-web-works](https://github.com/prateeja/how-web-works) [0]
-
-What happens behind the scenes when we type www.google.com in a browser?
-<hr />
-
-45 ![study-path](https://github.com/prateeja/study-path) [0]
-
-An organized learning path on Clean Code, Test-Driven Development, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture
-<hr />
-
-46 ![every-programmer-should-know](https://github.com/prateeja/every-programmer-should-know) [0]
-
-A collection of (mostly) technical things every software developer should know about
-<hr />
-
-47 ![json-server](https://github.com/prateeja/json-server) [0]
-
-Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-<hr />
-
-48 ![storybook](https://github.com/prateeja/storybook) [0]
-
-📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
-<hr />
-
-49 ![rulebook](https://github.com/prateeja/rulebook) [0]
-
-100% Java, Lambda Enabled, Lightweight Rules Engine with a Simple and Intuitive DSL 
-<hr />
-
-50 ![CS_basics](https://github.com/prateeja/CS_basics) [0]
-
-My CS learning : algorithm, data structure, and system design | #SE
-<hr />
+# awesome stars
+
+A list of awesome repositories I've starred. Want your own? Try: [stargazer](https://github.com/rverst/stargazer)  
+Total starred repositories: `528`
+## Contents
+
+  - [C](#c)
+  - [C#](#c-1)
+  - [C++](#c-2)
+  - [CSS](#css)
+  - [Go](#go)
+  - [HTML](#html)
+  - [Java](#java)
+  - [JavaScript](#javascript)
+  - [Jinja](#jinja)
+  - [Jupyter Notebook](#jupyter-notebook)
+  - [Kotlin](#kotlin)
+  - [Lua](#lua)
+  - [Makefile](#makefile)
+  - [Markdown](#markdown)
+  - [Nunjucks](#nunjucks)
+  - [OCaml](#ocaml)
+  - [PHP](#php)
+  - [PlantUML](#plantuml)
+  - [PowerShell](#powershell)
+  - [Python](#python)
+  - [R](#r)
+  - [Ruby](#ruby)
+  - [Rust](#rust)
+  - [SCSS](#scss)
+  - [Shell](#shell)
+  - [TeX](#tex)
+  - [TypeScript](#typescript)
+  - [Unknown](#unknown)
+
+
+
+## C
+
+  - [agile6v/awesome-nginx](https://github.com/agile6v/awesome-nginx) - A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:   (⭐️940)
+
+## C#
+
+  - [aloisdg/Doccou](https://github.com/aloisdg/Doccou) - A file pages counter \[*MIT License*\] (⭐️18)
+  - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core \[*MIT License*\] (⭐️11773)
+
+## C++
+
+  - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc. (⭐️26967)
+  - [sachuverma/DataStructures-Algorithms](https://github.com/sachuverma/DataStructures-Algorithms) - This repo contains links of resources, theory subjects content and DSA questions & their solution for interview preparation from different websites like geeksforgeeks, leetcode, etc. \[*MIT License*\] (⭐️1321)
+
+## CSS
+
+  - [aalmiray/java-champions](https://github.com/aalmiray/java-champions) - A list of Java Champions (⭐️300)
+  - [rekihattori/awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest software engineers and tech pioneers (⭐️2366)
+  - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2022 (⭐️5625)
+
+## Go
+
+  - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking \[*GNU GPLv3*\] (⭐️4436)
+  - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software \[*MIT License*\] (⭐️93539)
+  - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language \[*MIT License*\] (⭐️5851)
+
+## HTML
+
+  - [aliesbelik/awesome-jmeter](https://github.com/aliesbelik/awesome-jmeter) - A collection of resources covering different aspects of JMeter usage. \[*Creative Commons Attribution 4.0 International*\] (⭐️583)
+  - [dreamingechoes/awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) - A curated list of awesome articles, websites and resources about mental health in the software industry. \[*Creative Commons Zero v1.0 Universal*\] (⭐️2536)
+  - [faridrashidi/kaggle-solutions](https://github.com/faridrashidi/kaggle-solutions) - 🏅 Collection of Kaggle Solutions and Ideas 🏅 \[*MIT License*\] (⭐️2288)
+  - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links \[*Creative Commons Zero v1.0 Universal*\] (⭐️21246)
+  - [iluwatar/java-design-patterns-web](https://github.com/iluwatar/java-design-patterns-web) - Java Design Patterns website at https://java-design-patterns.com \[*MIT License*\] (⭐️93)
+  - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role. (⭐️5893)
+  - [luuductrung1234/dev-roadmap](https://github.com/luuductrung1234/dev-roadmap) - :fire: the learning path and resource collections to become software developer (⭐️102)
+  - [mcauser/awesome-micropython](https://github.com/mcauser/awesome-micropython) - A curated list of awesome MicroPython libraries, frameworks, software and resources. \[*Creative Commons Zero v1.0 Universal*\] (⭐️755)
+  - [mGalarnyk/datasciencecoursera](https://github.com/mGalarnyk/datasciencecoursera) - Data Science Repo and blog for John Hopkins Coursera Courses. Please let me know if you have any questions. (⭐️2107)
+  - [overnote/awesome-kubernetes-notes](https://github.com/overnote/awesome-kubernetes-notes) - awesome-kubernetes-notes  🎉       (⭐️332)
+  - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (⭐️63930)
+  - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (⭐️4493)
+  - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources. (⭐️10430)
+
+## Java
+
+  - [amarlearning/ride-sharing-low-level-design](https://github.com/amarlearning/ride-sharing-low-level-design) - Low-level design of Ride-sharing Application Implementation.  \[*MIT License*\] (⭐️21)
+  - [anomaly2104/cache-low-level-system-design](https://github.com/anomaly2104/cache-low-level-system-design) - Low level deisgn for cache system (⭐️115)
+  - [anomaly2104/chess-low-level-system-design](https://github.com/anomaly2104/chess-low-level-system-design) - Repository contatining the low level system design of Chess.  (⭐️90)
+  - [anomaly2104/coding-recipies](https://github.com/anomaly2104/coding-recipies) - Recipies for good coding practices (⭐️39)
+  - [anomaly2104/lld-cab-booking-ola-uber-grab-lyft](https://github.com/anomaly2104/lld-cab-booking-ola-uber-grab-lyft) -  (⭐️100)
+  - [anomaly2104/lld-parking-lot](https://github.com/anomaly2104/lld-parking-lot) - Repository for low level design solution of parking lot (⭐️92)
+  - [anomaly2104/multi-level-cache-low-level-system-design](https://github.com/anomaly2104/multi-level-cache-low-level-system-design) -  (⭐️20)
+  - [anomaly2104/ticket-booking-low-level-system-design](https://github.com/anomaly2104/ticket-booking-low-level-system-design) -  (⭐️48)
+  - [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka \[*Apache License 2.0*\] (⭐️23795)
+  - [careercup/CtCI-6th-Edition](https://github.com/careercup/CtCI-6th-Edition) - Cracking the Coding Interview 6th Ed. Solutions (⭐️10410)
+  - [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. \[*GNU LGPLv2.1*\] (⭐️7439)
+  - [coding-parrot/youtube-projects](https://github.com/coding-parrot/youtube-projects) - These are project resources for the live YouTube lectures. Includes dependency injection, git internals, code reviews and the system design contest. (⭐️103)
+  - [CryptoKass/NoobChain-Tutorial-Part-2](https://github.com/CryptoKass/NoobChain-Tutorial-Part-2) - A Simple Java Blockchain for educational purposes. (Tutorial series) (⭐️180)
+  - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client \[*Apache License 2.0*\] (⭐️29767)
+  - [deliveredtechnologies/rulebook](https://github.com/deliveredtechnologies/rulebook) - 100% Java, Lambda Enabled, Lightweight Rules Engine with a Simple and Intuitive DSL  \[*Apache License 2.0*\] (⭐️666)
+  - [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识 \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️67995)
+  - [DreamOfTheRedChamber/system-design-interviews](https://github.com/DreamOfTheRedChamber/system-design-interviews) -  (⭐️1876)
+  - [dromara/hutool](https://github.com/dromara/hutool) - 🍬A set of tools that keep Java sweet. (⭐️25033)
+  - [dropwizard/dropwizard](https://github.com/dropwizard/dropwizard) - A damn simple library for building production-ready RESTful web services. \[*Apache License 2.0*\] (⭐️8332)
+  - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine (⭐️62255)
+  - [eugenp/tutorials](https://github.com/eugenp/tutorials) - Just Announced - "Learn Spring Security OAuth":  \[*MIT License*\] (⭐️32903)
+  - [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors \[*Apache License 2.0*\] (⭐️6266)
+  - [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back \[*Apache License 2.0*\] (⭐️21705)
+  - [google/guava](https://github.com/google/guava) - Google core libraries for Java \[*Apache License 2.0*\] (⭐️46451)
+  - [gopalbala/amazonlocker](https://github.com/gopalbala/amazonlocker) -  (⭐️9)
+  - [gopalbala/billsharing](https://github.com/gopalbala/billsharing) -  \[*Apache License 2.0*\] (⭐️18)
+  - [gopalbala/carrental](https://github.com/gopalbala/carrental) -  \[*Apache License 2.0*\] (⭐️12)
+  - [gopalbala/cric-score](https://github.com/gopalbala/cric-score) -  \[*Apache License 2.0*\] (⭐️10)
+  - [gopalbala/distributed-idgen](https://github.com/gopalbala/distributed-idgen) -  \[*Apache License 2.0*\] (⭐️6)
+  - [gopalbala/gossip](https://github.com/gopalbala/gossip) - A simple implementation of gossip protocol \[*Apache License 2.0*\] (⭐️5)
+  - [gopalbala/parkinglot](https://github.com/gopalbala/parkinglot) -  \[*Apache License 2.0*\] (⭐️17)
+  - [gopalbala/snake-and-ladder](https://github.com/gopalbala/snake-and-ladder) -  \[*Apache License 2.0*\] (⭐️15)
+  - [gopalbala/truecaller](https://github.com/gopalbala/truecaller) -  \[*Apache License 2.0*\] (⭐️46)
+  - [greenrobot/EventBus](https://github.com/greenrobot/EventBus) - Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality. \[*Apache License 2.0*\] (⭐️24210)
+  - [h2pl/Java-Tutorial](https://github.com/h2pl/Java-Tutorial) - 【Java工程师面试复习指南】本仓库涵盖大部分Java程序员所需要掌握的核心知识，整合了互联网上的很多优质Java技术文章，力求打造为最完整最实用的Java开发者学习指南，如果对你有帮助，给个star告诉我吧，谢谢！ (⭐️5753)
+  - [hs-web/hsweb-framework](https://github.com/hs-web/hsweb-framework) - hsweb (haʊs wɛb) 是一个基于spring-boot 2.x开发 ,首个使用全响应式编程的企业级后台管理系统基础项目。 \[*Apache License 2.0*\] (⭐️7955)
+  - [iluwatar/30-seconds-of-java](https://github.com/iluwatar/30-seconds-of-java) - Collection of reusable tested Java 11 compatible code snippets that you can understand in 30 seconds or less. \[*MIT License*\] (⭐️767)
+  - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java (⭐️78919)
+  - [iluwatar/uml-reverse-mapper](https://github.com/iluwatar/uml-reverse-mapper) - Automatically generate class diagram from code. Supports Graphviz, PlantUML and Mermaid output formats. \[*Apache License 2.0*\] (⭐️189)
+  - [imk13/low-level-design](https://github.com/imk13/low-level-design) - low-level-design (⭐️48)
+  - [in28minutes/spring-master-class](https://github.com/in28minutes/spring-master-class) - An updated introduction to the Spring Framework 5. Become an Expert understanding the core features of Spring In Depth. You would write Unit Tests, AOP, JDBC and JPA code during the course.  Includes introductions to Spring Boot, JPA, Eclipse, Maven, JUnit and Mockito. (⭐️985)
+  - [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄 (⭐️4579)
+  - [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) - about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。  (⭐️28325)
+  - [jclawson/dropwizardry](https://github.com/jclawson/dropwizardry) - Makes dropwizard even more awesome \[*Apache License 2.0*\] (⭐️9)
+  - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job. \[*MIT License*\] (⭐️58863)
+  - [kumaransg/LLD](https://github.com/kumaransg/LLD) - Curated Collection of all Low level design Questions and implementation asked in major Tech companies , Get yourself prepared for the LLD round and ace the interview. (⭐️617)
+  - [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - This repository consists of the code samples, assignments, and notes for the Java Data Structures & Algorithms bootcamp of Community Classroom. (⭐️10130)
+  - [mayankbansal93/lld-food-delivery-zomato-swiggy](https://github.com/mayankbansal93/lld-food-delivery-zomato-swiggy) - Low Level Design of Food delivery app - Zomato, Swiggy, UberEats (⭐️76)
+  - [metanet/java-algorithms-data-structures](https://github.com/metanet/java-algorithms-data-structures) - Solutions for popular algorithms and data structures problems on leetcode \[*Apache License 2.0*\] (⭐️32)
+  - [metanet/p2p](https://github.com/metanet/p2p) - A simple unstructured P2P network implementation \[*Apache License 2.0*\] (⭐️131)
+  - [mission-peace/interview](https://github.com/mission-peace/interview) - Interview questions \[*Apache License 2.0*\] (⭐️10605)
+  - [NanoHttpd/nanohttpd](https://github.com/NanoHttpd/nanohttpd) - Tiny, easily embeddable HTTP server in Java. \[*BSD 3-Clause "New" or "Revised" License*\] (⭐️6484)
+  - [naval41/Low-Level-Design](https://github.com/naval41/Low-Level-Design) -  (⭐️33)
+  - [neerazz/FAANG](https://github.com/neerazz/FAANG) - Competitive programming questions. (⭐️1399)
+  - [nikhilagrwl07/System-Design](https://github.com/nikhilagrwl07/System-Design) -  System design and Object Oriented Design (OOD) related interview problems and solutions. (⭐️80)
+  - [niteshkumartiwari/LLD-Practice](https://github.com/niteshkumartiwari/LLD-Practice) - Solving Various Low-Level Problems using SOLID, DRY, and KISS principles.  (⭐️21)
+  - [NotFound9/interviewGuide](https://github.com/NotFound9/interviewGuide) - 推荐刷题网站: https://www.lintcode.com/?utm_source=tf-github-NotFound2022  点此领取7天VIP会员：https://www.lintcode.com/vip/activity/z1qgMH           《大厂面试指北》——包括Java基础、JVM、数据库、mysql、redis、计算机网络、算法、数据结构、操作系统、设计模式、系统设计、框架原理。 (⭐️3668)
+  - [npathai/system-design-with-code](https://github.com/npathai/system-design-with-code) - System design not just on whiteboard, but with code. (⭐️21)
+  - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine. \[*Apache License 2.0*\] (⭐️6196)
+  - [P7h/IntroToHadoopAndMR__Udacity_Course](https://github.com/P7h/IntroToHadoopAndMR__Udacity_Course) - :elephant: Source code for assignments of Udacity course "Introduction to Hadoop and MapReduce" \[*Apache License 2.0*\] (⭐️118)
+  - [perwendel/spark](https://github.com/perwendel/spark) - A simple expressive web framework for java. Spark has a kotlin DSL https://github.com/perwendel/spark-kotlin \[*Apache License 2.0*\] (⭐️9433)
+  - [phishman3579/java-algorithms-implementation](https://github.com/phishman3579/java-algorithms-implementation) - Algorithms and Data Structures implemented in Java \[*Apache License 2.0*\] (⭐️4165)
+  - [pmd/pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer. (⭐️4098)
+  - [prateeja/java-design-patterns](https://github.com/prateeja/java-design-patterns) - Design patterns implemented in Java (⭐️1)
+  - [s4kibs4mi/java-developer-roadmap](https://github.com/s4kibs4mi/java-developer-roadmap) - Roadmap to becoming a Java developer in 2022 \[*MIT License*\] (⭐️3112)
+  - [savicprvoslav/Spring-Boot-starter](https://github.com/savicprvoslav/Spring-Boot-starter) - Spring boot project with preconfigured JPA, spring security, profiles, swagger and other.. to help you kick start your awesome project (⭐️242)
+  - [shekhargulati/30-seconds-of-java](https://github.com/shekhargulati/30-seconds-of-java) - Curated collection of useful little Java functions that you can understand quickly \[*Creative Commons Zero v1.0 Universal*\] (⭐️966)
+  - [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！ (⭐️129557)
+  - [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM \[*Apache License 2.0*\] (⭐️40933)
+  - [stunstunstun/awesome-spring-boot](https://github.com/stunstunstun/awesome-spring-boot) - Code based and real world examples of Spring Boot and shiny things. 😍 (⭐️377)
+  - [sudohippie/throttle](https://github.com/sudohippie/throttle) - API to throttle/rate-limit requests \[*MIT License*\] (⭐️56)
+  - [Suryakant-Bharti/Important-Java-Concepts](https://github.com/Suryakant-Bharti/Important-Java-Concepts) - 🚀 Complete Java - A to Z ║ 📚 Notes and Programs of all Important Concepts of Java - OOPS, Data Structures, Algorithms, Design Patterns & Development + Kotlin + Android :fire: (⭐️397)
+  - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java \[*MIT License*\] (⭐️49438)
+  - [thombergs/code-examples](https://github.com/thombergs/code-examples) - A collection of code examples from blog posts etc. \[*MIT License*\] (⭐️2062)
+  - [twowaits/SDE-Interview-Questions](https://github.com/twowaits/SDE-Interview-Questions) - Most comprehensive list :clipboard: of tech interview questions :blue_book: of companies scraped from Geeksforgeeks, CareerCup and Glassdoor.  \[*MIT License*\] (⭐️6392)
+  - [Urunov/Data-Strucute-Algorithms](https://github.com/Urunov/Data-Strucute-Algorithms) - Data Strucuter and Algorithms. System Design. Behaviour Questions (⭐️11)
+  - [uwolfer/gerrit-intellij-plugin](https://github.com/uwolfer/gerrit-intellij-plugin) - Gerrit Code Review Tool Integration for the IntelliJ Platform \[*Apache License 2.0*\] (⭐️459)
+  - [Vedenin/useful-java-links](https://github.com/Vedenin/useful-java-links) - A list of useful Java frameworks, libraries, software and hello worlds examples (⭐️5409)
+  - [VerbalExpressions/JavaVerbalExpressions](https://github.com/VerbalExpressions/JavaVerbalExpressions) - Java regular expressions made easy. \[*MIT License*\] (⭐️2581)
+  - [victorchennn/LeetCode](https://github.com/victorchennn/LeetCode) - LeetCode solutions, classified by tags of companies and topics. (⭐️25)
+  - [victorskl/strike](https://github.com/victorskl/strike) - Strike - Distributed Multi-Server Chat System (⭐️2)
+  - [williamfiset/Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures \[*MIT License*\] (⭐️14057)
+  - [winterbe/java8-tutorial](https://github.com/winterbe/java8-tutorial) - Modern Java - A Guide to Java 8 \[*MIT License*\] (⭐️16096)
+  - [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) - 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc \[*MIT License*\] (⭐️24780)
+  - [YunaiV/SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024 (⭐️15689)
+  - [zhangyd-c/springboot-learning](https://github.com/zhangyd-c/springboot-learning) - :taxi: spring boot学习案例，方便spring boot 初学者快速掌握相关知识 (⭐️753)
+
+## JavaScript
+
+  - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs \[*Creative Commons Attribution 4.0 International*\] (⭐️106039)
+  - [30-seconds/30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview. \[*MIT License*\] (⭐️11000)
+  - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (⭐️113151)
+  - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - 推荐刷题网站：https://www.lintcode.com/?utm_source=tf-github-lucifer2022  LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) (⭐️50089)
+  - [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here! \[*MIT License*\] (⭐️7745)
+  - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects \[*MIT License*\] (⭐️28361)
+  - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉 \[*MIT License*\] (⭐️27153)
+  - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (December 2022) \[*MIT License*\] (⭐️19826)
+  - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022) \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️84460)
+  - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories. \[*Creative Commons Zero v1.0 Universal*\] (⭐️56362)
+  - [jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) - A curated list of awesome JSON datasets that don't require authentication. \[*Creative Commons Zero v1.0 Universal*\] (⭐️2710)
+  - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards. \[*Creative Commons Zero v1.0 Universal*\] (⭐️8425)
+  - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file. \[*MIT License*\] (⭐️31773)
+  - [prateeja/awesome-mac](https://github.com/prateeja/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories. \[*Creative Commons Zero v1.0 Universal*\] (⭐️1)
+  - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript \[*MIT License*\] (⭐️76869)
+  - [ryanmcdermott/code-review-tips](https://github.com/ryanmcdermott/code-review-tips) - :microscope: Common problems to look for in a code review \[*MIT License*\] (⭐️1264)
+  - [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) - A curated list of tech stacks for building different applications & features \[*Creative Commons Zero v1.0 Universal*\] (⭐️2938)
+  - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub. (⭐️2593)
+  - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions (⭐️13312)
+  - [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers \[*Creative Commons Zero v1.0 Universal*\] (⭐️4080)
+  - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings \[*MIT License*\] (⭐️157691)
+  - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously) \[*MIT License*\] (⭐️64791)
+  - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs. (⭐️4106)
+  - [xephonhq/awesome-time-series-database](https://github.com/xephonhq/awesome-time-series-database) - :clock7: A curated list of awesome time series databases, benchmarks and papers (⭐️709)
+
+## Jinja
+
+  - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud \[*GNU AGPLv3*\] (⭐️26644)
+
+## Jupyter Notebook
+
+  - [ageron/handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2. \[*Apache License 2.0*\] (⭐️23775)
+  - [Kulbear/deep-learning-coursera](https://github.com/Kulbear/deep-learning-coursera) - Deep Learning Specialization by Andrew Ng on Coursera. \[*MIT License*\] (⭐️6994) *Archived!*
+  - [machinelearningnanodegree/stanford-cs231](https://github.com/machinelearningnanodegree/stanford-cs231) - Resources for students in the Udacity's Machine Learning Engineer Nanodegree to work through Stanford's Convolutional Neural Networks for Visual Recognition course (CS231n). \[*MIT License*\] (⭐️255)
+  - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.  (⭐️14148)
+  - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. \[*MIT License*\] (⭐️12490)
+  - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained \[*MIT License*\] (⭐️20701)
+  - [yandexdataschool/Practical_RL](https://github.com/yandexdataschool/Practical_RL) - A course in reinforcement learning in the wild \[*The Unlicense*\] (⭐️5169)
+
+## Kotlin
+
+  - [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android. \[*Apache License 2.0*\] (⭐️28114)
+  - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM. \[*Apache License 2.0*\] (⭐️43331)
+
+## Lua
+
+  - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc \[*GNU GPLv3*\] (⭐️19422)
+
+## Makefile
+
+  - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing. (⭐️5570)
+  - [puncsky/system-design-and-architecture](https://github.com/puncsky/system-design-and-architecture) - Learn how to design large-scale systems. Prep for the system design interview. (⭐️1847)
+  - [servicemesher/awesome-servicemesh](https://github.com/servicemesher/awesome-servicemesh) - Awesome service mesh - https://www.servicemesher.com/awesome-servicemesh/ \[*Apache License 2.0*\] (⭐️313)
+
+## Markdown
+
+  - [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more. \[*Creative Commons Zero v1.0 Universal*\] (⭐️3791)
+  - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.  (⭐️112826)
+
+## Nunjucks
+
+  - [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) - Community driven roadmaps, articles and resources for developers (⭐️2065)
+
+## OCaml
+
+  - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C \[*MIT License*\] (⭐️13736)
+
+## PHP
+
+  - [sjparkinson/static-review](https://github.com/sjparkinson/static-review) - :hand: An extendible framework for version control hooks. \[*MIT License*\] (⭐️328) *Archived!*
+
+## PlantUML
+
+  - [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML) - C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures \[*MIT License*\] (⭐️4754)
+
+## PowerShell
+
+  - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources (⭐️3680)
+
+## Python
+
+  - [0xInfection/Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) - 🔥 Web-application firewalls (WAFs) from security standpoint. \[*Apache License 2.0*\] (⭐️4863)
+  - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. (⭐️62642)
+  - [asutkarpeeyush/snake-and-ladder](https://github.com/asutkarpeeyush/snake-and-ladder) - Snakes and Ladders (⭐️3)
+  - [brendandburns/designing-distributed-systems](https://github.com/brendandburns/designing-distributed-systems) - Sample code and configuration files from the Designing Distributed Systems book. (⭐️821)
+  - [carlospolop/hacktricks](https://github.com/carlospolop/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news. (⭐️5758)
+  - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers \[*MIT License*\] (⭐️22326)
+  - [chiphuyen/stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) - This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.  \[*MIT License*\] (⭐️10213) *Archived!*
+  - [dahlia/awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) - A curated list of awesome tools for SQLAlchemy (⭐️2519)
+  - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet \[*MIT License*\] (⭐️6441)
+  - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome. (⭐️10999)
+  - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines. (⭐️24444)
+  - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults. (⭐️5859)
+  - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools (⭐️7343)
+  - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards. (⭐️26668)
+  - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (⭐️206516)
+  - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python (⭐️36121)
+  - [fendouai/Awesome-Chatbot](https://github.com/fendouai/Awesome-Chatbot) - Awesome Chatbot Projects,Corpus,Papers,Tutorials.Chinese Chatbot =>: \[*Apache License 2.0*\] (⭐️1881)
+  - [geohacker/flask-mvc](https://github.com/geohacker/flask-mvc) - Imposing MVC for a Flask application (⭐️20)
+  - [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools. (⭐️2199)
+  - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software. (⭐️57077)
+  - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python \[*MIT License*\] (⭐️21963)
+  - [lauris/awesome-scala](https://github.com/lauris/awesome-scala) - A community driven list of useful Scala libraries, frameworks and software. \[*Apache License 2.0*\] (⭐️8601)
+  - [likedan/Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - Largest list of models for Core ML (for iOS 11+) \[*MIT License*\] (⭐️5578)
+  - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.  (⭐️18549)
+  - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures \[*MIT License*\] (⭐️27519)
+  - [MrMimic/data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) - Toturials coming with the "data science roadmap" picture. \[*GNU GPLv3*\] (⭐️5767)
+  - [naqushab/ScalerAcademy](https://github.com/naqushab/ScalerAcademy) - Data Structures and Algorithms, Low level design, High level design Notes, Mind maps, Cheatsheets (⭐️145)
+  - [prateeja/awesome-aws](https://github.com/prateeja/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome. (⭐️1)
+  - [prateeja/awesome-python](https://github.com/prateeja/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources (⭐️1)
+  - [prateeja/awesome-scala](https://github.com/prateeja/awesome-scala) - A community driven list of useful Scala libraries, frameworks and software. \[*Apache License 2.0*\] (⭐️1)
+  - [prateeja/public-apis](https://github.com/prateeja/public-apis) - A collective list of free APIs for use in software and web development. \[*MIT License*\] (⭐️1)
+  - [prateeja/system-design-primer](https://github.com/prateeja/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (⭐️2)
+  - [progrmoiz/python-snippets](https://github.com/progrmoiz/python-snippets) - :100: The most useful python snippets (⭐️525)
+  - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library. \[*Apache License 2.0*\] (⭐️48760)
+  - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs \[*MIT License*\] (⭐️221996)
+  - [pushpendughosh/Stock-market-forecasting](https://github.com/pushpendughosh/Stock-market-forecasting) - Forecasting directional movements of stock prices for intraday trading using LSTM and random forest (⭐️270)
+  - [PyCQA/pylint](https://github.com/PyCQA/pylint) - It's not just a linter that annoys you! \[*GNU GPLv2*\] (⭐️4404)
+  - [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos. \[*The Unlicense*\] (⭐️7896)
+  - [reviewboard/reviewboard](https://github.com/reviewboard/reviewboard) - An extensible and friendly code review tool for projects and companies of all sizes. \[*MIT License*\] (⭐️1461)
+  - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources (⭐️6661)
+  - [rushter/data-science-blogs](https://github.com/rushter/data-science-blogs) - A curated list of data science blogs (⭐️5998)
+  - [sadigovelvin/geeksforgeeks.pdf](https://github.com/sadigovelvin/geeksforgeeks.pdf) - Topic wise PDFs of Geeks for Geeks articles. (Last updated in October 2018) (⭐️1)
+  - [toastdriven/microsearch](https://github.com/toastdriven/microsearch) - A small search library. \[*BSD 3-Clause "New" or "Revised" License*\] (⭐️101)
+  - [transitland/mapzen-geohash](https://github.com/transitland/mapzen-geohash) - Python package containing simple tools for encoding and decoding geohashes \[*MIT License*\] (⭐️54)
+  - [tssovi/grokking-the-object-oriented-design-interview](https://github.com/tssovi/grokking-the-object-oriented-design-interview) -  (⭐️2602)
+  - [vim-awesome/vim-awesome](https://github.com/vim-awesome/vim-awesome) - Awesome Vim plugins from across the universe \[*MIT License*\] (⭐️1961)
+  - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources (⭐️150902)
+  - [yennanliu/CS_basics](https://github.com/yennanliu/CS_basics) - My CS learning : algorithm, data structure, and system design | #SE (⭐️40)
+  - [yzhao062/anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) - Anomaly detection related books, papers, videos, and toolboxes \[*GNU AGPLv3*\] (⭐️6705)
+
+## R
+
+  - [briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) - A curated list of awesome network analysis resources. (⭐️2878)
+
+## Ruby
+
+  - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness (⭐️29665)
+  - [guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.  (⭐️1621)
+  - [RichardLitt/awesome-conferences](https://github.com/RichardLitt/awesome-conferences) - :ticket: A list of awesome conferences (⭐️731)
+  - [shadabahmed/logstasher](https://github.com/shadabahmed/logstasher) - Awesome rails logs \[*MIT License*\] (⭐️806)
+
+## Rust
+
+  - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality. \[*MIT License*\] (⭐️10673)
+  - [mookid/diffr](https://github.com/mookid/diffr) - Yet another diff highlighting tool \[*MIT License*\] (⭐️461)
+  - [utilForever/game-developer-roadmap](https://github.com/utilForever/game-developer-roadmap) - Roadmap to becoming a game developer in 2022 \[*MIT License*\] (⭐️4373)
+
+## SCSS
+
+  - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class. (⭐️12741)
+
+## Shell
+
+  - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps (⭐️10587)
+  - [aitemr/awesome-git-hooks](https://github.com/aitemr/awesome-git-hooks) - 😎 A collection of awesome Git Hooks \[*Creative Commons Zero v1.0 Universal*\] (⭐️684)
+  - [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources \[*Apache License 2.0*\] (⭐️6589)
+  - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources. (⭐️5402)
+  - [awesome-spark/awesome-spark](https://github.com/awesome-spark/awesome-spark) - A curated list of awesome Apache Spark packages and resources. \[*Creative Commons Zero v1.0 Universal*\] (⭐️1395)
+  - [gmolveau/starred](https://github.com/gmolveau/starred) - my list of starred github repos (⭐️10)
+  - [jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow) - Curated list of resources about Apache Airflow (⭐️3173)
+  - [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch. \[*Creative Commons Zero v1.0 Universal*\] (⭐️9433)
+  - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss. (⭐️66652)
+  - [prateeja/awesome-dropwizard](https://github.com/prateeja/awesome-dropwizard) -  (⭐️1)
+  - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada: (⭐️13373)
+  - [stve/awesome-dropwizard](https://github.com/stve/awesome-dropwizard) -  (⭐️84)
+  - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials. \[*BSD 3-Clause "New" or "Revised" License*\] (⭐️12094)
+
+## TeX
+
+  - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application \[*LaTeX Project Public License v1.3c*\] (⭐️18022)
+  - [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers (⭐️24173)
+
+## TypeScript
+
+  - [AnandChowdhary/readme-repos-list](https://github.com/AnandChowdhary/readme-repos-list) - 🖇️ GitHub Action to list repositories in a README \[*MIT License*\] (⭐️15)
+  - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. \[*BSD 3-Clause "New" or "Revised" License*\] (⭐️358642)
+  - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 \[*MIT License*\] (⭐️71205)
+  - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures. \[*Apache License 2.0*\] (⭐️20208)
+  - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (⭐️222544)
+  - [ntsd/github-profile-repositories](https://github.com/ntsd/github-profile-repositories) - Automatically create repositories list for your Github Profile. \[*MIT License*\] (⭐️4)
+  - [soroushchehresa/awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) - 🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus) \[*MIT License*\] (⭐️1523)
+  - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.  \[*MIT License*\] (⭐️75682)
+  - [TeamCodeStream/codestream](https://github.com/TeamCodeStream/codestream) - The Code Collaboration Tool Built for Remote Teams (⭐️845)
+  - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers \[*MIT License*\] (⭐️83898)
+
+## Unknown
+
+  - [0x4D31/awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources (⭐️2445)
+  - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes (⭐️7327)
+  - [AB1908/CS-Books](https://github.com/AB1908/CS-Books) - A list of textbooks for a Computer Science curriculum. \[*MIT License*\] (⭐️283)
+  - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝 \[*Creative Commons Zero v1.0 Universal*\] (⭐️15920)
+  - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems. \[*MIT License*\] (⭐️20243)
+  - [akrawchyk/awesome-vim](https://github.com/akrawchyk/awesome-vim) - The Vim plugin shortlist \[*MIT License*\] (⭐️1712)
+  - [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language. (⭐️34772)
+  - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. \[*Creative Commons Zero v1.0 Universal*\] (⭐️25937)
+  - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems \[*The Unlicense*\] (⭐️14915)
+  - [aloisdg/awesome-regex](https://github.com/aloisdg/awesome-regex) - A curated collection of awesome Regex libraries, tools, frameworks and software \[*Creative Commons Zero v1.0 Universal*\] (⭐️1378)
+  - [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications. \[*GNU GPLv3*\] (⭐️6995)
+  - [AobingJava/JavaFamily](https://github.com/AobingJava/JavaFamily) - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 (⭐️32667)
+  - [aphyr/distsys-class](https://github.com/aphyr/distsys-class) - Class materials for a distributed systems lecture series (⭐️8414)
+  - [arvimal/Technical-Notes](https://github.com/arvimal/Technical-Notes) - A collection of notes on various technical topics (⭐️7)
+  - [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - 500 AI Machine learning Deep learning Computer vision NLP Projects with code (⭐️11212)
+  - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by http://sdclabs.com (⭐️5455)
+  - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding \[*MIT License*\] (⭐️39272)
+  - [Awesome-Interview/Awesome-Interview](https://github.com/Awesome-Interview/Awesome-Interview) - Collection of awesome interview references. (⭐️1737)
+  - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets. \[*MIT License*\] (⭐️52353)
+  - [awsdocs/aws-codedeploy-user-guide](https://github.com/awsdocs/aws-codedeploy-user-guide) - The open source version of the AWS CodeDeploy User Guide. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull request. (⭐️45)
+  - [BalaMahesh/simple-kv-store](https://github.com/BalaMahesh/simple-kv-store) - This is a simple in memory key value(only string) store  and also can run as a distributed and standalone process. When run as a distributed process, it provides eventual consistency and fault tolerant. (⭐️2)
+  - [best-of-lists/best-of](https://github.com/best-of-lists/best-of) - 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics. \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️548)
+  - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc. (⭐️13648)
+  - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems \[*MIT License*\] (⭐️42575)
+  - [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering. \[*MIT License*\] (⭐️11547)
+  - [bmarvinb/software-engineer-interview-preparation](https://github.com/bmarvinb/software-engineer-interview-preparation) - Software Engineer interview questions, links and notes (⭐️340)
+  - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming \[*Creative Commons Zero v1.0 Universal*\] (⭐️7232)
+  - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries. \[*Creative Commons Zero v1.0 Universal*\] (⭐️33869)
+  - [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages \[*MIT License*\] (⭐️5316)
+  - [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources \[*MIT License*\] (⭐️9470)
+  - [casbin/awesome-auth](https://github.com/casbin/awesome-auth) - 📊 Software and Libraries for Authentication & Authorization & SSO & IAM \[*Creative Commons Zero v1.0 Universal*\] (⭐️689)
+  - [chaconnewu/free-data-science-books](https://github.com/chaconnewu/free-data-science-books) - Free resources for learning data science \[*The Unlicense*\] (⭐️2523)
+  - [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies (⭐️19229)
+  - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL (⭐️13787)
+  - [chobeat/awesome-critical-tech-reading-list](https://github.com/chobeat/awesome-critical-tech-reading-list) - A reading list for the modern critical programmer  (⭐️775)
+  - [christian-bromann/awesome-selenium](https://github.com/christian-bromann/awesome-selenium) - A curated list of delightful Selenium resources. \[*Creative Commons Zero v1.0 Universal*\] (⭐️859)
+  - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities. (⭐️20000)
+  - [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem \[*Creative Commons Zero v1.0 Universal*\] (⭐️5293)
+  - [ciazhar/ciazhar](https://github.com/ciazhar/ciazhar) - Halo Saya Muhammad Hafidz Selamat Datang DI Repository Saya (⭐️3)
+  - [cicdops/awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd) - continuous integration and continuous delivery \[*GNU GPLv2*\] (⭐️1543)
+  - [code-review-checklists/java-concurrency](https://github.com/code-review-checklists/java-concurrency) - Checklist for code reviews (⭐️1123)
+  - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (⭐️181041)
+  - [codeigniter-id/awesome-codeigniter](https://github.com/codeigniter-id/awesome-codeigniter) - A list of awesome Codeigniter core, helpers, hooks, language, libraries, third party and other cool resources for CodeIgniter :fire: (⭐️747)
+  - [codersguild/System-Design](https://github.com/codersguild/System-Design) - It's fascinating. How is modern software designed? 🤔 Some design-level considerations for scalability, maintainability eventual consistency, availability & reliability. 👨‍💻 Interview Prep. 👨‍💻 \[*GNU GPLv3*\] (⭐️1127)
+  - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 (⭐️160102)
+  - [dakshshah96/awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits) - ✨ A collection of awesome companies offering free/discounted plans for eligible startups (⭐️2166)
+  - [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - A curated list of Chaos Engineering resources. \[*Creative Commons Zero v1.0 Universal*\] (⭐️5280)
+  - [deephacks/awesome-jvm](https://github.com/deephacks/awesome-jvm) - A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python. \[*Creative Commons Zero v1.0 Universal*\] (⭐️1868)
+  - [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful) \[*MIT License*\] (⭐️2636)
+  - [dev-sungman/Awesome-Self-Supervised-Papers](https://github.com/dev-sungman/Awesome-Self-Supervised-Papers) - Paper bank for Self-Supervised Learning (⭐️550)
+  - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures. (⭐️48183)
+  - [Developer-Y/Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture) - Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design. \[*MIT License*\] (⭐️1550)
+  - [Devinterview-io/concurrency-interview-questions](https://github.com/Devinterview-io/concurrency-interview-questions) - 🟣 Concurrency Interview Questions Answered to help you get ready for your next Design Patterns & System Architecture interview. (⭐️11)
+  - [dharmeshkakadia/awesome-mesos](https://github.com/dharmeshkakadia/awesome-mesos) - Everything about Apache Mesos \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️540)
+  - [dictcp/awesome-git](https://github.com/dictcp/awesome-git) - A curated list of amazingly awesome Git tools, resources and shiny things \[*Creative Commons Zero v1.0 Universal*\] (⭐️1734)
+  - [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students  \[*MIT License*\] (⭐️14831)
+  - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps \[*Creative Commons Zero v1.0 Universal*\] (⭐️32959)
+  - [donnemartin/coding-interview-university](https://github.com/donnemartin/coding-interview-university) - A complete computer science study plan to become a software engineer. \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️363)
+  - [DopplerHQ/awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖 (⭐️3205)
+  - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:  (⭐️52276)
+  - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns. (⭐️22514)
+  - [duyet/awesome-web-scraper](https://github.com/duyet/awesome-web-scraper) - A collection of awesome web scaper, crawler. \[*MIT License*\] (⭐️196)
+  - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers. (⭐️36361)
+  - [dzharii/awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch) - A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch! \[*The Unlicense*\] (⭐️4486)
+  - [eacdy/awesome-spring-cloud](https://github.com/eacdy/awesome-spring-cloud) - Spring Cloud 优质资源一网打尽 \[*Apache License 2.0*\] (⭐️263)
+  - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (⭐️259302)
+  - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more (⭐️4031)
+  - [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) - A curated list of awesome curated lists of many topics. \[*Creative Commons Zero v1.0 Universal*\] (⭐️2266)
+  - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things (⭐️17468)
+  - [erwanor/engineering-blogs](https://github.com/erwanor/engineering-blogs) -  (⭐️96)
+  - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning \[*MIT License*\] (⭐️12875)
+  - [Eun/DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac. (⭐️1324) *Archived!*
+  - [facundofarias/awesome-websockets](https://github.com/facundofarias/awesome-websockets) - A curated list of Websocket libraries and resources. (⭐️1240)
+  - [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知) (⭐️20564)
+  - [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world \[*MIT License*\] (⭐️11693)
+  - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. \[*MIT License*\] (⭐️42615)
+  - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects \[*MIT License*\] (⭐️30678)
+  - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills. \[*MIT License*\] (⭐️60992)
+  - [flyhigher139/awesome-github-repo](https://github.com/flyhigher139/awesome-github-repo) - A curated list of awesome GitHub repositories. Inspired by awesome-python, which is inspired by awesome-php. (⭐️635)
+  - [fx2-tech/hack-your-mind](https://github.com/fx2-tech/hack-your-mind) - 方便快速查找各类知识资料，程序员精进和扩展视野必备。 (⭐️14)
+  - [gaerae/awesome-algorithms-education](https://github.com/gaerae/awesome-algorithms-education) - A curated list to learning and practicing about algorithm. (⭐️467)
+  - [gaolinjie/awesome-recommender-systems](https://github.com/gaolinjie/awesome-recommender-systems) - A curated list of awesome resources about Recommender Systems. \[*MIT License*\] (⭐️294)
+  - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates \[*Creative Commons Zero v1.0 Universal*\] (⭐️142164)
+  - [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC \[*Creative Commons Attribution 4.0 International*\] (⭐️5963)
+  - [guardrailsio/awesome-java-security](https://github.com/guardrailsio/awesome-java-security) - Awesome Java Security Resources 🕶☕🔐 (⭐️271)
+  - [guardrailsio/awesome-python-security](https://github.com/guardrailsio/awesome-python-security) - Awesome Python Security resources 🕶🐍🔐 (⭐️837)
+  - [gunnarmorling/awesome-annotation-processing](https://github.com/gunnarmorling/awesome-annotation-processing) - A curated list of resources related to the Java annotation processing API (JSR 269) (⭐️345)
+  - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world. (⭐️14231)
+  - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers \[*Creative Commons Zero v1.0 Universal*\] (⭐️59625)
+  - [HamidFaraji/software-architecture-reading-list](https://github.com/HamidFaraji/software-architecture-reading-list) - Software Architecture Reading & Watching List \[*MIT License*\] (⭐️30)
+  - [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things. (⭐️3727) *Archived!*
+  - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things. (⭐️26839) *Archived!*
+  - [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources (⭐️9464)
+  - [hoya012/awesome-anomaly-detection](https://github.com/hoya012/awesome-anomaly-detection) - A curated list of awesome anomaly detection resources (⭐️2281)
+  - [humiaozuzu/awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins (⭐️11053)
+  - [husnainfareed/Awesome-Ethical-Hacking-Resources](https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources) - 🔗 All the resources I could find for learning Ethical Hacking and Penetration Testing. \[*MIT License*\] (⭐️1645)
+  - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -   A curated list of awesome applications, softwares, tools and shiny things for macOS. (⭐️13755)
+  - [igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers (⭐️4660)
+  - [iJackUA/awesome-vagrant](https://github.com/iJackUA/awesome-vagrant) - A curated list of awesome Vagrant resources, plugins, tutorials and other nice things. (⭐️569)
+  - [iluwatar/programming-principles](https://github.com/iluwatar/programming-principles) - Categorized overview of Programming Principles & Patterns (⭐️281)
+  - [in28minutes/first-steps-to-software-architect](https://github.com/in28minutes/first-steps-to-software-architect) - How to start your journey towards software architecture? \[*MIT License*\] (⭐️133)
+  - [infoslack/awesome-kafka](https://github.com/infoslack/awesome-kafka) - A list about Apache Kafka (⭐️516)
+  - [infoslack/awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking) - A list of web application security \[*MIT License*\] (⭐️4422)
+  - [inputsh/awesome-c](https://github.com/inputsh/awesome-c) - Continuing the development of awesome-c list on GitHub (⭐️3006)
+  - [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin: \[*Do What The F*ck You Want To Public License*\] (⭐️3637)
+  - [irazasyed/awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare) - ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources. \[*Creative Commons Zero v1.0 Universal*\] (⭐️356)
+  - [ityouknow/awesome-spring-boot](https://github.com/ityouknow/awesome-spring-boot) - Spring Boot Resources (⭐️4054)
+  - [JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) - :boy: :girl: Technical-Interview guidelines written for those who started studying programming. I wish you all the best. :space_invader: \[*MIT License*\] (⭐️14847)
+  - [JamzyWang/awesome-redis](https://github.com/JamzyWang/awesome-redis) - A curated list of amazingly awesome redis and redis ecosystem resources.  (⭐️595)
+  - [JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - Awesome online talks and screencasts (⭐️5776)
+  - [jbmusso/awesome-graph](https://github.com/jbmusso/awesome-graph) - A curated list of resources for graph databases and graph computing tools (⭐️955)
+  - [jdsutton/Technical-Interview-Megarepo](https://github.com/jdsutton/Technical-Interview-Megarepo) - Study materials for SE/CS technical interviews (⭐️1530)
+  - [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) - A delightful list of personal tech blogs (⭐️2808)
+  - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page (⭐️123254)
+  - [joebew42/study-path](https://github.com/joebew42/study-path) - An organized learning path on Clean Code, Test-Driven Development, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture (⭐️2327)
+  - [joho/awesome-code-review](https://github.com/joho/awesome-code-review) - An "Awesome" list of code review resources - articles, papers, tools, etc (⭐️3706)
+  - [jonathan-bower/DataScienceResources](https://github.com/jonathan-bower/DataScienceResources) - Open Source Data Science Resources. (⭐️3386)
+  - [joubertredrat/awesome-devops](https://github.com/joubertredrat/awesome-devops) - This is my awesome list with all open source and free applications that you can use in your management \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️689)
+  - [JsonChao/ML-Roadmap](https://github.com/JsonChao/ML-Roadmap) - :robot: Roadmap to becoming a Machine Learning developer in 2020 \[*Apache License 2.0*\] (⭐️450)
+  - [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources http://tensorflow.org \[*Creative Commons Zero v1.0 Universal*\] (⭐️16792)
+  - [judasn/IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - IntelliJ IDEA 简体中文专题教程 \[*GNU GPLv2*\] (⭐️20403)
+  - [justinamiller/SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) - Path to a Software Architect \[*MIT License*\] (⭐️7741)
+  - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer. \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️241822)
+  - [jxr041100/system_design](https://github.com/jxr041100/system_design) - advanced coding and system design problems (⭐️99)
+  - [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) - A curated list of delightful productivity resources. \[*Creative Commons Zero v1.0 Universal*\] (⭐️1736)
+  - [kakoni/awesome-healthcare](https://github.com/kakoni/awesome-healthcare) - Curated list of awesome open source healthcare software, libraries, tools and resources. \[*Creative Commons Zero v1.0 Universal*\] (⭐️2048)
+  - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns (⭐️35665)
+  - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language. \[*MIT License*\] (⭐️40741)
+  - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in \[*Creative Commons Zero v1.0 Universal*\] (⭐️19382)
+  - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP) \[*Creative Commons Zero v1.0 Universal*\] (⭐️14042)
+  - [Kikobeats/awesome-api](https://github.com/Kikobeats/awesome-api) - A curated list of awesome resources for design and implement RESTful API's. (⭐️2156)
+  - [klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems) - 📒 A curated list of bookmarks, resources and articles about design systems focused on developers. \[*Creative Commons Zero v1.0 Universal*\] (⭐️509)
+  - [KrishMunot/awesome-startup](https://github.com/KrishMunot/awesome-startup) - :sunglasses: All the required resources to build your own startup \[*MIT License*\] (⭐️1243)
+  - [ksoichiro/awesome-gradle](https://github.com/ksoichiro/awesome-gradle) - A curated list of awesome Gradle plugins and resources for a better development workflow automation. (⭐️407)
+  - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups \[*Creative Commons Zero v1.0 Universal*\] (⭐️18607)
+  - [kunal-kushwaha/Competitive-Programming-Resources](https://github.com/kunal-kushwaha/Competitive-Programming-Resources) - Competitive Programming & System Design Resources. \[*MIT License*\] (⭐️2416)
+  - [lauragift21/awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) - 🔥 Awesome list of resources on Web Development. \[*MIT License*\] (⭐️4719)
+  - [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books (⭐️4157)
+  - [learn-anything/command-line-tools](https://github.com/learn-anything/command-line-tools) - Awesome Command Line Utilities (⭐️342)
+  - [learn-anything/courses](https://github.com/learn-anything/courses) - Awesome Courses (⭐️936)
+  - [learn-anything/research-papers](https://github.com/learn-anything/research-papers) - Awesome Research Papers (⭐️241)
+  - [LearnDataSci/free-data-science-learning](https://github.com/LearnDataSci/free-data-science-learning) -  (⭐️253)
+  - [Leo-G/Data-Science-Wiki](https://github.com/Leo-G/Data-Science-Wiki) - A wiki of  DataScience, Statistics, Maths, R,Python, AI, Machine Learning,  Automation, Devops Tools, Bash, Linux Tutorials, Scripts and Datasets \[*MIT License*\] (⭐️4908)
+  - [leonardolemie/clean-code-java](https://github.com/leonardolemie/clean-code-java) - Clean Code concepts adapted for Java. Based on @ryanmcdermott repository. \[*MIT License*\] (⭐️349)
+  - [liuchong/awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps) - A curated list of roadmaps. \[*Creative Commons Zero v1.0 Universal*\] (⭐️2722)
+  - [lnishan/awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) - :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources \[*Creative Commons Attribution 4.0 International*\] (⭐️10633)
+  - [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.  \[*Creative Commons Zero v1.0 Universal*\] (⭐️6389)
+  - [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming) - a curated list of awesome streaming frameworks, applications, etc (⭐️2150)
+  - [marcobiedermann/search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization) - :mag: A helpful checklist/collection of Search Engine Optimization (SEO) tips and techniques. \[*MIT License*\] (⭐️2040)
+  - [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software (⭐️12581)
+  - [marmelab/awesome-rest](https://github.com/marmelab/awesome-rest) - A collaborative list of great resources about RESTful API architecture, development, test, and performance \[*Creative Commons Zero v1.0 Universal*\] (⭐️3251)
+  - [mateusz-brainhub/awesome-cto-resources](https://github.com/mateusz-brainhub/awesome-cto-resources) - :bulb: A community-curated list of awesome resources to help you grow as a CTO (⭐️629)
+  - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs (⭐️13540)
+  - [MaxBenChrist/awesome_time_series_in_python](https://github.com/MaxBenChrist/awesome_time_series_in_python) - This curated list contains  python packages for time series analysis (⭐️1785)
+  - [mdibaiee/awesome-lite-websites](https://github.com/mdibaiee/awesome-lite-websites) - A list of awesome lightweight websites without all the bloat (⭐️1305)
+  - [mehmetozkaya/Design-Microservices-Architecture-with-Patterns-Principles](https://github.com/mehmetozkaya/Design-Microservices-Architecture-with-Patterns-Principles) - Design Microservices Architecture with Patterns & Principles. We're going to learn how to Design Microservices Architecture with using Design Patterns, Principles and the Best Practices.  You will Learn how to handle millions of request with designing system for high availability, high scalability, low latency, and resilience to network failures on microservices distributed architectures. (⭐️247)
+  - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines \[*Apache License 2.0*\] (⭐️3969)
+  - [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies. \[*Creative Commons Zero v1.0 Universal*\] (⭐️11689)
+  - [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier \[*Creative Commons Zero v1.0 Universal*\] (⭐️2448)
+  - [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture. (⭐️7217)
+  - [mhrimaz/AwesomeJavaFX](https://github.com/mhrimaz/AwesomeJavaFX) - A curated list of awesome JavaFX libraries, books, frameworks, etc... (⭐️2707)
+  - [miguelmota/awesome-amazon-alexa](https://github.com/miguelmota/awesome-amazon-alexa) - 🗣Curated list of awesome resources for the Amazon Alexa platform. (⭐️530) *Archived!*
+  - [mister0/How-to-prepare-for-google-interview-SWE-SRE](https://github.com/mister0/How-to-prepare-for-google-interview-SWE-SRE) - This repository includes resources which are more than sufficient to prepare for google interview if you are applying for a software engineer position or a site reliability engineer position (⭐️540)
+  - [mjhea0/awesome-flask](https://github.com/mjhea0/awesome-flask) - A curated list of awesome things related to Flask \[*Creative Commons Zero v1.0 Universal*\] (⭐️1049)
+  - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly. \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️12116)
+  - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly. \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️1759)
+  - [mohsenshafiei/system-design-master-plan](https://github.com/mohsenshafiei/system-design-master-plan) - :1st_place_medal: Roadmap to becoming a system design and architecture master (⭐️217)
+  - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources. \[*Creative Commons Zero v1.0 Universal*\] (⭐️2069)
+  - [mr-karan/awesome-investing](https://github.com/mr-karan/awesome-investing) -  💸💸 Curated list of investment & finance related resources  \[*Creative Commons Zero v1.0 Universal*\] (⭐️1433)
+  - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about \[*Creative Commons Attribution 4.0 International*\] (⭐️66541)
+  - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects. (⭐️46743)
+  - [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web. (⭐️19288)
+  - [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites \[*Creative Commons Zero v1.0 Universal*\] (⭐️11211)
+  - [newTendermint/awesome-analytics](https://github.com/newTendermint/awesome-analytics) - A curated list of analytics frameworks, software and other tools. \[*MIT License*\] (⭐️3469)
+  - [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness. \[*MIT License*\] (⭐️11541)
+  - [NikAshanin/Software-Architect-Cheat-Sheet](https://github.com/NikAshanin/Software-Architect-Cheat-Sheet) -  (⭐️128)
+  - [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing (⭐️19259)
+  - [NirantK/awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas \[*MIT License*\] (⭐️6705)
+  - [NirmalSilwal/system-design-resources](https://github.com/NirmalSilwal/system-design-resources) - Contains system design materials to prepare for system design interviews 🚩👨‍💻👨‍💻👨‍💻  \[*MIT License*\] (⭐️455)
+  - [numetriclabz/awesome-db](https://github.com/numetriclabz/awesome-db) - A curated list of amazingly awesome database libraries, resources and shiny things by https://www.numetriclabz.com/ (⭐️1052)
+  - [Olshansk/interview](https://github.com/Olshansk/interview) - Everything you need to prepare for your technical interview \[*Do What The F*ck You Want To Public License*\] (⭐️15947)
+  - [onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec) -  A curated list of awesome infosec courses and training resources. (⭐️4301)
+  - [OpesanyaAdebayo/systems-design](https://github.com/OpesanyaAdebayo/systems-design) - All things systems design. Resources, Interview questions, e.t.c \[*MIT License*\] (⭐️780)
+  - [orsanawwad/awesome-roadmaps](https://github.com/orsanawwad/awesome-roadmaps) - View roadmaps about developer roles to help you learn \[*Creative Commons Zero v1.0 Universal*\] (⭐️1878)
+  - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science! \[*MIT License*\] (⭐️129818)
+  - [P1xt/google-interview-university](https://github.com/P1xt/google-interview-university) - A complete daily plan for studying to become a Google software engineer. \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️312)
+  - [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos) - A curated list of GitHub Repositories full of FREE Resources. \[*Creative Commons Zero v1.0 Universal*\] (⭐️1739)
+  - [pawl/awesome-etl](https://github.com/pawl/awesome-etl) - A curated list of awesome ETL frameworks, libraries, and software. (⭐️2765)
+  - [phanan/htaccess](https://github.com/phanan/htaccess) - ✂A collection of useful .htaccess snippets. (⭐️12263)
+  - [phpearth/awesome-community](https://github.com/phpearth/awesome-community) - A curated list of awesome programming, development, technical support and discussion channels, groups, communities, resources and other shiny things (⭐️218)
+  - [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals (⭐️5835)
+  - [pmuens/awesome-serverless](https://github.com/pmuens/awesome-serverless) - DEPRECATED: Curated list of resources related to serverless computing and serverless architectures. \[*MIT License*\] (⭐️2088)
+  - [posquit0/awesome-engineering-team-principles](https://github.com/posquit0/awesome-engineering-team-principles) - :sunglasses: A curated list of awesome resources for engineering team principles (⭐️350)
+  - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials \[*MIT License*\] (⭐️84699)
+  - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science! (⭐️44647)
+  - [prasadgujar/low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer) - Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems. Prep for the system design interview. (⭐️4563)
+  - [prateeja/awesome-bigdata](https://github.com/prateeja/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness. \[*MIT License*\] (⭐️1)
+  - [prateeja/awesome-command-line-apps](https://github.com/prateeja/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things. \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️1)
+  - [prateeja/awesome-data-engineering](https://github.com/prateeja/awesome-data-engineering) - A curated list of data engineering tools for software developers (⭐️1)
+  - [prateeja/awesome-database-learning](https://github.com/prateeja/awesome-database-learning) - A list of learning materials to understand databases internals (⭐️1)
+  - [prateeja/awesome-devops](https://github.com/prateeja/awesome-devops) - This is my awesome list with all open source and free applications that you can use in your management \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️1)
+  - [prateeja/awesome-distributed-systems](https://github.com/prateeja/awesome-distributed-systems) - A curated list to learn about distributed systems (⭐️1)
+  - [prateeja/awesome-http-benchmark](https://github.com/prateeja/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful) \[*MIT License*\] (⭐️1)
+  - [prateeja/awesome-java](https://github.com/prateeja/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language. (⭐️1)
+  - [prateeja/awesome-jvm](https://github.com/prateeja/awesome-jvm) - A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python. \[*Creative Commons Zero v1.0 Universal*\] (⭐️1)
+  - [prateeja/awesome-kafka](https://github.com/prateeja/awesome-kafka) - A list about Apache Kafka (⭐️1)
+  - [prateeja/awesome-microservices](https://github.com/prateeja/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies. \[*Creative Commons Zero v1.0 Universal*\] (⭐️1)
+  - [prateeja/awesome-mysql](https://github.com/prateeja/awesome-mysql) - A curated list of awesome MySQL software, libraries, tools and resources (⭐️1)
+  - [prateeja/awesome-scalability](https://github.com/prateeja/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems \[*MIT License*\] (⭐️1)
+  - [prateeja/awesome-spark](https://github.com/prateeja/awesome-spark) - A curated list of awesome Apache Spark packages and resources. \[*Creative Commons Zero v1.0 Universal*\] (⭐️1)
+  - [prateeja/awesome-streaming](https://github.com/prateeja/awesome-streaming) - a curated list of awesome streaming frameworks, applications, etc (⭐️1)
+  - [prateeja/awesome-websockets](https://github.com/prateeja/awesome-websockets) - A curated list of Websocket libraries and resources. (⭐️1)
+  - [prateeja/build-your-own-x](https://github.com/prateeja/build-your-own-x) - 🤓 Build your own (insert technology here) (⭐️1)
+  - [prateeja/coding-interview-university](https://github.com/prateeja/coding-interview-university) - A complete computer science study plan to become a software engineer. \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️1)
+  - [prateeja/first-steps-to-software-architect](https://github.com/prateeja/first-steps-to-software-architect) - How to start your journey towards software architecture? \[*MIT License*\] (⭐️1)
+  - [prateeja/free-programming-books](https://github.com/prateeja/free-programming-books) - :books: Freely available programming books (⭐️1)
+  - [prateeja/gitignore](https://github.com/prateeja/gitignore) - A collection of useful .gitignore templates \[*Creative Commons Zero v1.0 Universal*\] (⭐️1)
+  - [prateeja/Scalable-Software-Architecture](https://github.com/prateeja/Scalable-Software-Architecture) - Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design. \[*MIT License*\] (⭐️1)
+  - [prateeja/Technical-Interview-Megarepo](https://github.com/prateeja/Technical-Interview-Megarepo) - Study materials for SE/CS technical interviews (⭐️1)
+  - [prateeja/the-art-of-command-line](https://github.com/prateeja/the-art-of-command-line) - Master the command line, in one page (⭐️1)
+  - [puresec/awesome-serverless-security](https://github.com/puresec/awesome-serverless-security) - A curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers. \[*Creative Commons Zero v1.0 Universal*\] (⭐️491)
+  - [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - 🐶 A curated list of Web Security materials and resources. (⭐️9254)
+  - [r0f1/datascience](https://github.com/r0f1/datascience) - Curated list of Python resources for data science. \[*Creative Commons Zero v1.0 Universal*\] (⭐️3603)
+  - [ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications (⭐️2084)
+  - [raycad/devops-roadmap](https://github.com/raycad/devops-roadmap) - DevOps methodology & roadmap for a devops developer in 2019. Interesting books to learn new technologies. (⭐️625)
+  - [resumejob/system-design-algorithms](https://github.com/resumejob/system-design-algorithms) - Advanced data structure and algorithm for system design，系统设计需要了解的算法 \[*MIT License*\] (⭐️1384)
+  - [resumejob/system-design-in-practice](https://github.com/resumejob/system-design-in-practice) - Learn how to design a system from tech company blogs 系统设计博客 \[*MIT License*\] (⭐️133)
+  - [reyronald/awesome-toolkits](https://github.com/reyronald/awesome-toolkits) - A curated list of open source, high-quality, popular and well maintained "zero-configuration" (#0CJS) toolkits (⭐️518)
+  - [rigtorp/awesome-lockfree](https://github.com/rigtorp/awesome-lockfree) - A collection of resources on wait-free and lock-free programming (⭐️1391)
+  - [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools. \[*Creative Commons Zero v1.0 Universal*\] (⭐️1235)
+  - [robinstickel/awesome-design-principles](https://github.com/robinstickel/awesome-design-principles) - ✨ A curated list of awesome design principles \[*The Unlicense*\] (⭐️458)
+  - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux (⭐️5375)
+  - [rShetty/awesome-distributed-systems](https://github.com/rShetty/awesome-distributed-systems) - Awesome list of distributed systems resources (⭐️1516)
+  - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts (⭐️11263)
+  - [rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Defund the Police. (⭐️9353)
+  - [rzgry/links](https://github.com/rzgry/links) - 📚 Collection of links for various programming topics. (Mostly around JS, web & cloud) \[*MIT License*\] (⭐️8)
+  - [sacridini/Awesome-Geospatial](https://github.com/sacridini/Awesome-Geospatial) - Long list of geospatial tools and resources \[*Creative Commons Zero v1.0 Universal*\] (⭐️3049)
+  - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security. \[*MIT License*\] (⭐️9275)
+  - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers. \[*MIT License*\] (⭐️49981)
+  - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub \[*Creative Commons Zero v1.0 Universal*\] (⭐️20475)
+  - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps \[*Creative Commons Zero v1.0 Universal*\] (⭐️33523)
+  - [shashank88/system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions (⭐️8023)
+  - [shlomi-noach/awesome-mysql](https://github.com/shlomi-noach/awesome-mysql) - A curated list of awesome MySQL software, libraries, tools and resources (⭐️1998)
+  - [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform \[*Creative Commons Zero v1.0 Universal*\] (⭐️3785)
+  - [siboehm/awesome-learn-datascience](https://github.com/siboehm/awesome-learn-datascience) - :chart_with_upwards_trend: Curated list of resources to help you get started with Data Science (⭐️570)
+  - [simskij/awesome-software-architecture](https://github.com/simskij/awesome-software-architecture) - A curated list of resources on software architecture \[*Creative Commons Zero v1.0 Universal*\] (⭐️1694)
+  - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics \[*Creative Commons Zero v1.0 Universal*\] (⭐️231498)
+  - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources \[*Creative Commons Zero v1.0 Universal*\] (⭐️48607)
+  - [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links. (⭐️4260)
+  - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things. (⭐️29606)
+  - [src-d/awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) - Cool links & research papers related to Machine Learning applied to source code (MLonCode) \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️5733)
+  - [stanzhai/be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) - 成为专业程序员路上用到的各种优秀资料、神器及框架 \[*MIT License*\] (⭐️9100)
+  - [stemmlerjs/software-design-and-architecture-roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - 🧱 The software design and architecture roadmap for any developer (⭐️2621)
+  - [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments (⭐️2826)
+  - [sumodirjo/awesome-awesomeness](https://github.com/sumodirjo/awesome-awesomeness) - A curated list of awesome awesomeness (⭐️1)
+  - [sumodirjo/engineering-blogs](https://github.com/sumodirjo/engineering-blogs) - A curated list of engineering blogs of startup and enterprise companies \[*GNU GPLv2*\] (⭐️1474)
+  - [t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome) - :octocat: A a curated list of curated lists of awesome lists. (⭐️1714)
+  - [tangweikun/awesome-leetcode](https://github.com/tangweikun/awesome-leetcode) - :nail_care: A collection of awesome leetcode solutions \[*MIT License*\] (⭐️435)
+  - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms. (⭐️12883)
+  - [techtanic/educative.io_courses](https://github.com/techtanic/educative.io_courses) - this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack (⭐️227)
+  - [teivah/algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of 200+ Algorithmic Flash Cards to Help you Preparing your Algorithm & Data Structure Interview 💯 (⭐️4939)
+  - [the-akira/Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) - A list of resources in different fields of Computer Science (⭐️1940)
+  - [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems) - A curated list to learn about distributed systems (⭐️8650)
+  - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers \[*Creative Commons Zero v1.0 Universal*\] (⭐️63419)
+  - [ThomasVitale/awesome-spring](https://github.com/ThomasVitale/awesome-spring) - A curated list of awesome books, tutorials, courses, and resources for the Spring framework ecosystem. \[*Creative Commons Zero v1.0 Universal*\] (⭐️669)
+  - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub. \[*MIT License*\] (⭐️38706)
+  - [tirthajyoti/Data-science-best-resources](https://github.com/tirthajyoti/Data-science-best-resources) - Carefully curated resource links for data science in one place \[*MIT License*\] (⭐️2188)
+  - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️8780) *Archived!*
+  - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. \[*MIT License*\] (⭐️85575)
+  - [ty4z2008/Qix](https://github.com/ty4z2008/Qix) - Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang (⭐️14084)
+  - [uhub/awesome-java](https://github.com/uhub/awesome-java) - A curated list of awesome Java frameworks, libraries and software. (⭐️464)
+  - [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources  \[*Creative Commons Zero v1.0 Universal*\] (⭐️12600)
+  - [Uncodedtech/Interviewprep](https://github.com/Uncodedtech/Interviewprep) - This repository includes links to forked repositories which hold a list of resources that could be helpful for a person to ace his/her next job interview! \[*MIT License*\] (⭐️10)
+  - [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser? (⭐️12292)
+  - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects \[*Apache License 2.0*\] (⭐️23754)
+  - [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better! \[*GNU GPLv3*\] (⭐️12872)
+  - [wbkd/awesome-d3](https://github.com/wbkd/awesome-d3) - A list of D3 libraries, plugins and utilities (⭐️4941)
+  - [webpro/programming-principles](https://github.com/webpro/programming-principles) - Categorized overview of programming principles & design patterns (⭐️2122)
+  - [weiaicunzai/awesome-image-classification](https://github.com/weiaicunzai/awesome-image-classification) - A curated list of deep learning image classification papers and codes (⭐️2382)
+  - [wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources (⭐️7190)
+  - [wuchong/awesome-flink](https://github.com/wuchong/awesome-flink) - 😎  A curated list of amazingly awesome Flink and Flink ecosystem resources \[*Creative Commons Zero v1.0 Universal*\] (⭐️683)
+  - [xgrommx/awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) - Yet another resource for collecting articles, videos etc. regarding functional programming (⭐️3248)
+  - [xiju2003/Best-Penetration-Tools-](https://github.com/xiju2003/Best-Penetration-Tools-) - Best Penetration Tools | أفضل أدوات الاختراق (⭐️13)
+  - [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱 (⭐️57416)
+  - [yasir2000/awesome-software-architecture](https://github.com/yasir2000/awesome-software-architecture) - A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles. \[*Creative Commons Zero v1.0 Universal*\] (⭐️23)
+  - [youngwookim/awesome-hadoop](https://github.com/youngwookim/awesome-hadoop) - A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources (⭐️1026)
+  - [yoyiyi/SoleilNotes](https://github.com/yoyiyi/SoleilNotes) - 技术面试必备知识点：Android、Java、C、C++、Python、Flutter、Gradle、数据结构、计算机组成原理、计算机网络、操作系统、算法、数据结构、设计模式、密码学等等 (⭐️484)
+  - [zero-equals-false/awesome-programming-books](https://github.com/zero-equals-false/awesome-programming-books) - 📚 A curated list of awesome programming books (Algorithms and data structures, Artificial intelligence, Software Architecture, Human–computer interaction, Operating Systems, Database Systems, IT Security, Concurrency, Interpreters and Compilers, High-Performance Computing, Distributed Systems, Game Development, Mathematical optimization) (⭐️1695)
+  - [zhenlohuang/awesome-distributed-systems](https://github.com/zhenlohuang/awesome-distributed-systems) - A curated list of awesome distributed systems books, papers, resources and shiny things. (⭐️886)
+  - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things. \[*Do What The F*ck You Want To Public License*\] (⭐️27898)
 
