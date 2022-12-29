@@ -1,8 +1,9 @@
-# awesome stars
+# Starred Repositories
 
-A list of awesome repositories I've starred. Want your own? Try: [stargazer](https://github.com/rverst/stargazer)  
-Total starred repositories: `497`
+A list of awesome repositories I've starred. Total starred repositories: `497`
+
 ## Contents
+
 1. [idealo/mongodb-slow-operations-profiler](https://github.com/idealo/mongodb-slow-operations-profiler)  ![GitHub Repo stars](https://img.shields.io/github/stars/idealo/mongodb-slow-operations-profiler?style=social)  ![GitHub Repo forks](https://img.shields.io/github/forks/idealo/mongodb-slow-operations-profiler?style=social)<br/>This java web application collects slow operations from one or multiple mongoDB system(s) in order to visualize and analyze them.<br/>
 
 1. [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll)  ![GitHub Repo stars](https://img.shields.io/github/stars/wuyouzhuguli/SpringAll?style=social)  ![GitHub Repo forks](https://img.shields.io/github/forks/wuyouzhuguli/SpringAll?style=social)<br/>Step by step, learn Spring Boot, Spring Boot & Shiro, Spring Batch, Spring Cloud, Spring Cloud Alibaba, Spring Security & Spring Security OAuth2, blog Spring series source code: https://mrbird.cc<br/>`#learning` `#shiro` `#spring-boot` `#spring-boot-learning` `#spring-cloud` `#spring-security` `#springboot`
