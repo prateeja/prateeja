@@ -1,10 +1,12 @@
+import os
 from github import Github
 from googletrans import Translator
 
 
 class GitHubParser:
     def __init__(self):
-        self.github_client = Github(${{ secrets.README_GENERATOR_API_KEY }})
+        self.GH_TOKEN = os.getenv('GH_TOKEN')
+        self.github_client = Github(self.GH_TOKEN)
         self.translator = Translator()
 
     def get_starred_repos(self):
@@ -24,6 +26,7 @@ class GitHubParser:
         repos.sort(key=self.get_stargazers_count, reverse=True)
 
         for repo in repos:
+            print(repo.full_name)
             full_name = repo.full_name
             description = repo.description
             description = self.translator.translate(repo.description).text if repo.description else ''
@@ -38,6 +41,7 @@ class GitHubParser:
                    ")  ![GitHub Repo forks](" + forks_url + ")<br/>" + str(description) + "<br/>" + " ".join(topic_tags)
             f.write(text + "\n\n")
         f.close()
+        print("Completed")
 
 
 # Press the green button in the gutter to run the script.
