@@ -1,8 +1,7 @@
 # Starred Repositories
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=prateeja&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
-</p> <br>
+![](https://komarev.com/ghpvc/?username=prateeja&color=0079fa&style=flat-square)
+<br>
 
 A list of awesome repositories I've starred. Total starred repositories: `498`
 
