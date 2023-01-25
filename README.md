@@ -18,11 +18,11 @@ Prateek</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Java, Machine Learning & <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a> 
+- 🌱 I’m currently experience in Java, Python, Large Scale Distributed Systems, Event Driven Systems, Machine Learning etc. 
 
-- 📝 I regularly write articles on Dev
+- 📝 I regularly write articles on Medium
 
-- 💬 Ask me about **Reactjs & React-Native** 
+- 💬 Ask me about **Large Scale Distributed Systems & Event Driven Systems** 
 
 - 📫 How to reach me **prateekjainit@gmail.com**
 
@@ -37,17 +37,17 @@ Prateek</a></h1>
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/prateeja">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/prateeja?tab=profile">
+	<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/4345744/prateek-jain?tab=profile">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/prateeja">
+	<a style="margin-left: 10px;" target="_blank" href="https://dev.to/prateeja">
 					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/prateeja">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/__prateek.jain__/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/prateeja">
+	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/prateekjainit">
 			<img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkuDqNFKO2Nw?view_as=subscriber">
+	<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC2cjNzqfNDpdC8Wfrr04rFA?view_as=subscriber">
 				<img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/prateeja.pdf">
+	<a style="margin-left: 5px;" target="_blank" href="https://github.com/prateeja/resume.pdf">
 					<img src="https://img.icons8.com/plasticine/40/000000/resume.png" ></a>
       </div>
 
